@@ -1,0 +1,501 @@
+review_id,text,label
+1,Customer service resolved my query within minutes. Product is impressive as well. Really glad I chose this brand.,positive
+2,Battery drains in less than an hour. This electric kettle is practically useless.,negative
+3,Worth every penny. The mechanical keyboard feels solid and runs whisper-quiet.,positive
+4,False advertising. Key features promised for this security camera are completely missing.,negative
+5,Does everything it promises with speed and reliability. Very stellar purchase.,positive
+6,Customer service resolved my query within minutes. Product is wonderful as well.,positive
+7,The battery life and responsiveness of this ergonomic office chair blew me away. Truly terrific.,positive
+8,One of the best purchases I've made this year. The espresso machine is simply superb.,positive
+9,Warning: Customer support ignored my emails for over a week. Absolutely horrendous service.,negative
+10,Zero durability. The buttons on the Bluetooth speaker jammed after light everyday use.,negative
+11,"Regret buying this fitness tracker. You get what you pay for, and this is pure junk. Avoid at all costs.",negative
+12,The product does not match the photos or description online. Very unacceptable.,negative
+13,Impressed with the prompt shipping and high quality of this security camera.,positive
+14,"Warning: Regret buying this graphics tablet. You get what you pay for, and this is pure junk.",negative
+15,False advertising. Key features promised for this laptop stand are completely missing.,negative
+16,Worth every penny. The streaming mic feels solid and runs whisper-quiet.,positive
+17,Setup was a complete nightmare and the instructions make no sense at all.,negative
+18,Shipping was delayed by two weeks and the tablet screen protector arrived damaged and dented.,negative
+19,Overall: Delivered two days earlier than expected. Very terrific experience overall.,positive
+20,One of the best purchases I've made this year. The mechanical keyboard is simply superb. Really glad I chose this brand.,positive
+21,Terrible build quality. The vacuum cleaner stopped working after just three days.,negative
+22,Loud annoying buzzing sound whenever the external SSD is powered on. Defective unit.,negative
+23,The quality of this soundbar exceeded all my expectations. Absolutely delightful!,positive
+24,One of the best purchases I've made this year. The LED desk lamp is simply superb.,positive
+25,The quality of this espresso machine exceeded all my expectations. Absolutely flawless!,positive
+26,Exceptional value for money. The laptop stand works far better than more expensive alternatives. Really glad I chose this brand.,positive
+27,Tremendous improvement over my previous model. Loving this LED desk lamp so far.,positive
+28,Does everything it promises with speed and reliability. Very wonderful purchase.,positive
+29,Extremely disappointed with this smart thermostat. It feels cheap and performs poorly.,negative
+30,"Crisp design, intuitive controls, and robust build. Love this espresso machine!",positive
+31,Customer service was unhelpful and refused to replace the defective tablet screen protector. Avoid at all costs.,negative
+32,The battery life and responsiveness of this air purifier blew me away. Truly terrific.,positive
+33,Loud annoying buzzing sound whenever the Bluetooth speaker is powered on. Defective unit.,negative
+34,Top notch craftsmanship! The mechanical keyboard looks and feels luxurious.,positive
+35,Do not waste your money on this portable charger. Total scam and awful quality. Avoid at all costs.,negative
+36,Customer service was unhelpful and refused to replace the defective gaming monitor. Avoid at all costs.,negative
+37,Shipping was delayed by two weeks and the noise-cancelling earbuds arrived damaged and dented.,negative
+38,Highly recommended! The build quality and finish of the LED desk lamp are top-tier.,positive
+39,Battery drains in less than an hour. This security camera is practically useless.,negative
+40,Customer service was unhelpful and refused to replace the defective noise-cancelling earbuds.,negative
+41,Customer service was unhelpful and refused to replace the defective espresso machine.,negative
+42,"Regret buying this external SSD. You get what you pay for, and this is pure junk. Avoid at all costs.",negative
+43,Horrible experience. The return process for this mechanical keyboard was a frustrating ordeal.,negative
+44,Customer service resolved my query within minutes. Product is superb as well.,positive
+45,Horrible experience. The return process for this soundbar was a frustrating ordeal.,negative
+46,One star. The kitchen blender arrived with missing parts and broken packaging.,negative
+47,Outstanding customer support when my streaming mic needed attention. Very impeccable service.,positive
+48,One star. The kitchen blender arrived with missing parts and broken packaging.,negative
+49,Do not waste your money on this wireless headphones. Total scam and awful quality. Avoid at all costs.,negative
+50,Overall: Fast delivery and the LED desk lamp arrived in mint condition. Would definitely buy again.,positive
+51,Customer service resolved my query within minutes. Product is brilliant as well.,positive
+52,Horrible experience. The return process for this mechanical keyboard was a frustrating ordeal.,negative
+53,Setup was a complete nightmare and the instructions make no sense at all.,negative
+54,Warning: The product does not match the photos or description online. Very unacceptable.,negative
+55,Shipping was delayed by two weeks and the vacuum cleaner arrived damaged and dented.,negative
+56,I have been using this smart thermostat daily for a month and it performs flawlessly.,positive
+57,Exceptional value for money. The smartwatch works far better than more expensive alternatives.,positive
+58,Battery drains in less than an hour. This security camera is practically useless.,negative
+59,Customer support ignored my emails for over a week. Absolutely pathetic service.,negative
+60,"Regret buying this portable charger. You get what you pay for, and this is pure junk. Avoid at all costs.",negative
+61,Zero durability. The buttons on the fitness tracker jammed after light everyday use.,negative
+62,Worst purchase of the year. Save your cash and look for a different tablet screen protector.,negative
+63,Does everything it promises with speed and reliability. Very terrific purchase.,positive
+64,"Overall: Crisp design, intuitive controls, and robust build. Love this Bluetooth speaker!",positive
+65,Zero durability. The buttons on the fitness tracker jammed after light everyday use.,negative
+66,Worth every penny. The espresso machine feels solid and runs whisper-quiet. Really glad I chose this brand.,positive
+67,One star. The external SSD arrived with missing parts and broken packaging.,negative
+68,One of the best purchases I've made this year. The Bluetooth speaker is simply superb. Really glad I chose this brand.,positive
+69,Exceptional value for money. The ergonomic office chair works far better than more expensive alternatives. Really glad I chose this brand.,positive
+70,One of the best purchases I've made this year. The smart thermostat is simply superb.,positive
+71,"Regret buying this noise-cancelling earbuds. You get what you pay for, and this is pure junk.",negative
+72,Warning: Customer support ignored my emails for over a week. Absolutely unacceptable service.,negative
+73,Highly recommended! The build quality and finish of the noise-cancelling earbuds are top-tier.,positive
+74,"Crisp design, intuitive controls, and robust build. Love this smartwatch! Really glad I chose this brand.",positive
+75,Shipping was delayed by two weeks and the air purifier arrived damaged and dented.,negative
+76,A game changer in my daily routine. I cannot imagine working without this graphics tablet.,positive
+77,"Regret buying this smart thermostat. You get what you pay for, and this is pure junk.",negative
+78,Battery drains in less than an hour. This soundbar is practically useless.,negative
+79,Shipping was delayed by two weeks and the electric kettle arrived damaged and dented. Avoid at all costs.,negative
+80,Extremely disappointed with this mesh router. It feels cheap and performs poorly. Avoid at all costs.,negative
+81,Overall: I have been using this smartwatch daily for a month and it performs flawlessly.,positive
+82,Extremely disappointed with this mesh router. It feels cheap and performs poorly.,negative
+83,Customer support ignored my emails for over a week. Absolutely appalling service.,negative
+84,Worth every penny. The electric kettle feels solid and runs whisper-quiet.,positive
+85,Loud annoying buzzing sound whenever the mechanical keyboard is powered on. Defective unit.,negative
+86,Slow and unresponsive. The companion app for this external SSD crashes on startup.,negative
+87,Zero durability. The buttons on the LED desk lamp jammed after light everyday use.,negative
+88,Zero durability. The buttons on the Bluetooth speaker jammed after light everyday use.,negative
+89,Does everything it promises with speed and reliability. Very flawless purchase.,positive
+90,Fast delivery and the noise-cancelling earbuds arrived in mint condition. Would definitely buy again. Really glad I chose this brand.,positive
+91,Terrible build quality. The kitchen blender stopped working after just three days. Avoid at all costs.,negative
+92,Terrible build quality. The smartwatch stopped working after just three days. Avoid at all costs.,negative
+93,False advertising. Key features promised for this external SSD are completely missing.,negative
+94,I have been using this wireless headphones daily for a month and it performs flawlessly.,positive
+95,Delivered two days earlier than expected. Very phenomenal experience overall.,positive
+96,"Regret buying this laptop stand. You get what you pay for, and this is pure junk.",negative
+97,Fantastic experience from ordering to delivery. The electric kettle is impressive and reliable.,positive
+98,Five stars! The vacuum cleaner works exactly as described in the specifications.,positive
+99,Customer service was unhelpful and refused to replace the defective dash cam.,negative
+100,Fast delivery and the external SSD arrived in mint condition. Would definitely buy again.,positive
+101,The product does not match the photos or description online. Very painful.,negative
+102,Broke on the second day of use. Flimsy materials and poor craftsmanship.,negative
+103,I have been using this tablet screen protector daily for a month and it performs flawlessly.,positive
+104,Impressed with the prompt shipping and high quality of this graphics tablet.,positive
+105,The product does not match the photos or description online. Very pathetic.,negative
+106,Super easy setup and seamless integration. This gaming monitor is genuinely superb.,positive
+107,Overall: Super easy setup and seamless integration. This portable charger is genuinely stellar.,positive
+108,Customer service resolved my query within minutes. Product is superb as well.,positive
+109,Worst purchase of the year. Save your cash and look for a different smart thermostat.,negative
+110,Five stars! The mechanical keyboard works exactly as described in the specifications.,positive
+111,"Crisp design, intuitive controls, and robust build. Love this mesh router!",positive
+112,I have been using this laptop stand daily for a month and it performs flawlessly.,positive
+113,Top notch craftsmanship! The mechanical keyboard looks and feels luxurious.,positive
+114,Slow and unresponsive. The companion app for this portable charger crashes on startup.,negative
+115,Warning: Battery drains in less than an hour. This vacuum cleaner is practically useless.,negative
+116,Zero durability. The buttons on the laptop stand jammed after light everyday use.,negative
+117,Super easy setup and seamless integration. This portable charger is genuinely phenomenal.,positive
+118,Five stars! The tablet screen protector works exactly as described in the specifications.,positive
+119,Extremely disappointed with this ergonomic office chair. It feels cheap and performs poorly.,negative
+120,Shipping was delayed by two weeks and the Bluetooth speaker arrived damaged and dented.,negative
+121,I have been using this laptop stand daily for a month and it performs flawlessly. Really glad I chose this brand.,positive
+122,Customer support ignored my emails for over a week. Absolutely frustrating service.,negative
+123,Fantastic experience from ordering to delivery. The smart thermostat is impeccable and reliable.,positive
+124,One star. The mesh router arrived with missing parts and broken packaging. Avoid at all costs.,negative
+125,Five stars! The smart thermostat works exactly as described in the specifications.,positive
+126,Horrible experience. The return process for this streaming mic was a frustrating ordeal.,negative
+127,Extremely disappointed with this smartwatch. It feels cheap and performs poorly.,negative
+128,The product does not match the photos or description online. Very subpar. Avoid at all costs.,negative
+129,Overall: Super easy setup and seamless integration. This laptop stand is genuinely delightful.,positive
+130,Setup was a complete nightmare and the instructions make no sense at all. Avoid at all costs.,negative
+131,Worst purchase of the year. Save your cash and look for a different smart thermostat. Avoid at all costs.,negative
+132,One of the best purchases I've made this year. The fitness tracker is simply superb.,positive
+133,Five stars! The noise-cancelling earbuds works exactly as described in the specifications.,positive
+134,Loud annoying buzzing sound whenever the laptop stand is powered on. Defective unit.,negative
+135,Overall: Delivered two days earlier than expected. Very impeccable experience overall.,positive
+136,Extremely disappointed with this gaming monitor. It feels cheap and performs poorly.,negative
+137,Impressed with the prompt shipping and high quality of this portable charger. Really glad I chose this brand.,positive
+138,Fast delivery and the external SSD arrived in mint condition. Would definitely buy again.,positive
+139,Tremendous improvement over my previous model. Loving this espresso machine so far.,positive
+140,Delivered two days earlier than expected. Very terrific experience overall.,positive
+141,Shipping was delayed by two weeks and the electric kettle arrived damaged and dented.,negative
+142,Highly recommended! The build quality and finish of the air purifier are top-tier.,positive
+143,One star. The external SSD arrived with missing parts and broken packaging. Avoid at all costs.,negative
+144,Extremely disappointed with this security camera. It feels cheap and performs poorly.,negative
+145,Highly recommended! The build quality and finish of the external SSD are top-tier.,positive
+146,Shipping was delayed by two weeks and the fitness tracker arrived damaged and dented.,negative
+147,Five stars! The air purifier works exactly as described in the specifications.,positive
+148,Shipping was delayed by two weeks and the espresso machine arrived damaged and dented.,negative
+149,Fantastic experience from ordering to delivery. The air purifier is wonderful and reliable.,positive
+150,Do not waste your money on this electric kettle. Total scam and awful quality. Avoid at all costs.,negative
+151,Highly recommended! The build quality and finish of the fitness tracker are top-tier.,positive
+152,Fantastic experience from ordering to delivery. The noise-cancelling earbuds is terrific and reliable.,positive
+153,The product does not match the photos or description online. Very appalling. Avoid at all costs.,negative
+154,The product does not match the photos or description online. Very appalling.,negative
+155,"Crisp design, intuitive controls, and robust build. Love this mechanical keyboard!",positive
+156,Overall: Worth every penny. The wireless headphones feels solid and runs whisper-quiet.,positive
+157,Customer service was unhelpful and refused to replace the defective smart thermostat.,negative
+158,Does everything it promises with speed and reliability. Very phenomenal purchase.,positive
+159,Do not waste your money on this soundbar. Total scam and awful quality.,negative
+160,"Glitchy software, constant errors, and sluggish performance. Very dreadful.",negative
+161,Overall: Tremendous improvement over my previous model. Loving this air purifier so far.,positive
+162,Loud annoying buzzing sound whenever the streaming mic is powered on. Defective unit.,negative
+163,Do not waste your money on this smart thermostat. Total scam and awful quality.,negative
+164,The quality of this kitchen blender exceeded all my expectations. Absolutely impressive!,positive
+165,I have been using this noise-cancelling earbuds daily for a month and it performs flawlessly. Really glad I chose this brand.,positive
+166,Loud annoying buzzing sound whenever the smartwatch is powered on. Defective unit.,negative
+167,Battery drains in less than an hour. This smartwatch is practically useless.,negative
+168,Worst purchase of the year. Save your cash and look for a different portable charger.,negative
+169,Broke on the second day of use. Flimsy materials and poor craftsmanship.,negative
+170,Overall: Tremendous improvement over my previous model. Loving this smartwatch so far.,positive
+171,Setup was a complete nightmare and the instructions make no sense at all.,negative
+172,Fantastic experience from ordering to delivery. The laptop stand is wonderful and reliable.,positive
+173,Tremendous improvement over my previous model. Loving this kitchen blender so far.,positive
+174,The quality of this tablet screen protector exceeded all my expectations. Absolutely brilliant!,positive
+175,Worst purchase of the year. Save your cash and look for a different smartwatch.,negative
+176,Overall: I have been using this espresso machine daily for a month and it performs flawlessly.,positive
+177,Delivered two days earlier than expected. Very phenomenal experience overall. Really glad I chose this brand.,positive
+178,Customer service resolved my query within minutes. Product is impeccable as well.,positive
+179,Broke on the second day of use. Flimsy materials and poor craftsmanship. Avoid at all costs.,negative
+180,The quality of this streaming mic exceeded all my expectations. Absolutely phenomenal!,positive
+181,"Crisp design, intuitive controls, and robust build. Love this Bluetooth speaker!",positive
+182,Five stars! The mesh router works exactly as described in the specifications.,positive
+183,Delivered two days earlier than expected. Very flawless experience overall.,positive
+184,Worth every penny. The air purifier feels solid and runs whisper-quiet.,positive
+185,Overall: A game changer in my daily routine. I cannot imagine working without this gaming monitor.,positive
+186,Slow and unresponsive. The companion app for this air purifier crashes on startup. Avoid at all costs.,negative
+187,Overall: Tremendous improvement over my previous model. Loving this gaming monitor so far.,positive
+188,Slow and unresponsive. The companion app for this soundbar crashes on startup.,negative
+189,Extremely disappointed with this vacuum cleaner. It feels cheap and performs poorly.,negative
+190,Broke on the second day of use. Flimsy materials and poor craftsmanship.,negative
+191,"Crisp design, intuitive controls, and robust build. Love this wireless headphones! Really glad I chose this brand.",positive
+192,I have been using this external SSD daily for a month and it performs flawlessly. Really glad I chose this brand.,positive
+193,Horrible experience. The return process for this graphics tablet was a frustrating ordeal.,negative
+194,Customer support ignored my emails for over a week. Absolutely unacceptable service.,negative
+195,Warning: False advertising. Key features promised for this wireless headphones are completely missing.,negative
+196,Delivered two days earlier than expected. Very stellar experience overall.,positive
+197,The battery life and responsiveness of this ergonomic office chair blew me away. Truly terrific. Really glad I chose this brand.,positive
+198,Impressed with the prompt shipping and high quality of this Bluetooth speaker. Really glad I chose this brand.,positive
+199,Five stars! The vacuum cleaner works exactly as described in the specifications.,positive
+200,Horrible experience. The return process for this vacuum cleaner was a frustrating ordeal.,negative
+201,The air purifier frequently overheats and crashes. Completely unreliable. Avoid at all costs.,negative
+202,"Crisp design, intuitive controls, and robust build. Love this tablet screen protector!",positive
+203,Shipping was delayed by two weeks and the kitchen blender arrived damaged and dented.,negative
+204,Outstanding customer support when my noise-cancelling earbuds needed attention. Very impressive service.,positive
+205,Highly recommended! The build quality and finish of the fitness tracker are top-tier.,positive
+206,Battery drains in less than an hour. This streaming mic is practically useless. Avoid at all costs.,negative
+207,"Crisp design, intuitive controls, and robust build. Love this smartwatch!",positive
+208,Worth every penny. The espresso machine feels solid and runs whisper-quiet.,positive
+209,One of the best purchases I've made this year. The portable charger is simply superb.,positive
+210,Warning: The product does not match the photos or description online. Very abysmal.,negative
+211,Super easy setup and seamless integration. This wireless headphones is genuinely wonderful. Really glad I chose this brand.,positive
+212,Outstanding customer support when my mechanical keyboard needed attention. Very delightful service.,positive
+213,False advertising. Key features promised for this mechanical keyboard are completely missing.,negative
+214,Customer service was unhelpful and refused to replace the defective espresso machine.,negative
+215,Five stars! The gaming monitor works exactly as described in the specifications. Really glad I chose this brand.,positive
+216,Worth every penny. The electric kettle feels solid and runs whisper-quiet.,positive
+217,Slow and unresponsive. The companion app for this mechanical keyboard crashes on startup.,negative
+218,"Warning: Regret buying this external SSD. You get what you pay for, and this is pure junk.",negative
+219,Shipping was delayed by two weeks and the wireless headphones arrived damaged and dented.,negative
+220,Does everything it promises with speed and reliability. Very flawless purchase.,positive
+221,Horrible experience. The return process for this noise-cancelling earbuds was a frustrating ordeal.,negative
+222,Five stars! The wireless headphones works exactly as described in the specifications.,positive
+223,Setup was a complete nightmare and the instructions make no sense at all.,negative
+224,Broke on the second day of use. Flimsy materials and poor craftsmanship. Avoid at all costs.,negative
+225,Outstanding customer support when my laptop stand needed attention. Very brilliant service.,positive
+226,Do not waste your money on this ergonomic office chair. Total scam and awful quality. Avoid at all costs.,negative
+227,Warning: False advertising. Key features promised for this smartwatch are completely missing.,negative
+228,Fantastic experience from ordering to delivery. The graphics tablet is phenomenal and reliable. Really glad I chose this brand.,positive
+229,Warning: Extremely disappointed with this soundbar. It feels cheap and performs poorly.,negative
+230,Tremendous improvement over my previous model. Loving this vacuum cleaner so far. Really glad I chose this brand.,positive
+231,Battery drains in less than an hour. This dash cam is practically useless.,negative
+232,Warning: Customer service was unhelpful and refused to replace the defective fitness tracker.,negative
+233,Zero durability. The buttons on the vacuum cleaner jammed after light everyday use.,negative
+234,Delivered two days earlier than expected. Very impeccable experience overall.,positive
+235,Zero durability. The buttons on the Bluetooth speaker jammed after light everyday use.,negative
+236,Setup was a complete nightmare and the instructions make no sense at all.,negative
+237,Warning: Customer support ignored my emails for over a week. Absolutely abysmal service.,negative
+238,A game changer in my daily routine. I cannot imagine working without this electric kettle.,positive
+239,Warning: One star. The mesh router arrived with missing parts and broken packaging.,negative
+240,Terrible build quality. The ergonomic office chair stopped working after just three days. Avoid at all costs.,negative
+241,"Regret buying this external SSD. You get what you pay for, and this is pure junk.",negative
+242,Battery drains in less than an hour. This gaming monitor is practically useless. Avoid at all costs.,negative
+243,Warning: Terrible build quality. The soundbar stopped working after just three days.,negative
+244,The quality of this soundbar exceeded all my expectations. Absolutely impeccable!,positive
+245,One of the best purchases I've made this year. The mechanical keyboard is simply superb. Really glad I chose this brand.,positive
+246,The product does not match the photos or description online. Very abysmal.,negative
+247,Slow and unresponsive. The companion app for this mesh router crashes on startup.,negative
+248,"Crisp design, intuitive controls, and robust build. Love this external SSD!",positive
+249,The vacuum cleaner frequently overheats and crashes. Completely unreliable. Avoid at all costs.,negative
+250,"Regret buying this laptop stand. You get what you pay for, and this is pure junk.",negative
+251,Setup was a complete nightmare and the instructions make no sense at all.,negative
+252,Zero durability. The buttons on the noise-cancelling earbuds jammed after light everyday use.,negative
+253,One star. The kitchen blender arrived with missing parts and broken packaging.,negative
+254,A game changer in my daily routine. I cannot imagine working without this dash cam.,positive
+255,Outstanding customer support when my wireless headphones needed attention. Very stellar service. Really glad I chose this brand.,positive
+256,Extremely disappointed with this ergonomic office chair. It feels cheap and performs poorly.,negative
+257,Overall: A game changer in my daily routine. I cannot imagine working without this noise-cancelling earbuds.,positive
+258,The quality of this tablet screen protector exceeded all my expectations. Absolutely stellar!,positive
+259,Top notch craftsmanship! The soundbar looks and feels luxurious.,positive
+260,Battery drains in less than an hour. This noise-cancelling earbuds is practically useless.,negative
+261,Extremely disappointed with this ergonomic office chair. It feels cheap and performs poorly.,negative
+262,Warning: The product does not match the photos or description online. Very painful.,negative
+263,Worst purchase of the year. Save your cash and look for a different laptop stand.,negative
+264,Broke on the second day of use. Flimsy materials and poor craftsmanship.,negative
+265,Tremendous improvement over my previous model. Loving this LED desk lamp so far.,positive
+266,One star. The Bluetooth speaker arrived with missing parts and broken packaging.,negative
+267,Do not waste your money on this kitchen blender. Total scam and awful quality.,negative
+268,Customer support ignored my emails for over a week. Absolutely appalling service.,negative
+269,False advertising. Key features promised for this external SSD are completely missing.,negative
+270,Slow and unresponsive. The companion app for this mesh router crashes on startup.,negative
+271,Overall: Five stars! The portable charger works exactly as described in the specifications.,positive
+272,Highly recommended! The build quality and finish of the tablet screen protector are top-tier. Really glad I chose this brand.,positive
+273,Setup was a complete nightmare and the instructions make no sense at all. Avoid at all costs.,negative
+274,Customer service resolved my query within minutes. Product is superb as well.,positive
+275,Overall: Delivered two days earlier than expected. Very phenomenal experience overall.,positive
+276,Worth every penny. The Bluetooth speaker feels solid and runs whisper-quiet.,positive
+277,Fast delivery and the air purifier arrived in mint condition. Would definitely buy again.,positive
+278,Fantastic experience from ordering to delivery. The security camera is delightful and reliable.,positive
+279,Customer support ignored my emails for over a week. Absolutely abysmal service.,negative
+280,Slow and unresponsive. The companion app for this kitchen blender crashes on startup.,negative
+281,Impressed with the prompt shipping and high quality of this fitness tracker. Really glad I chose this brand.,positive
+282,Exceptional value for money. The streaming mic works far better than more expensive alternatives.,positive
+283,Customer service resolved my query within minutes. Product is delightful as well. Really glad I chose this brand.,positive
+284,I have been using this LED desk lamp daily for a month and it performs flawlessly.,positive
+285,Fast delivery and the kitchen blender arrived in mint condition. Would definitely buy again.,positive
+286,Customer service resolved my query within minutes. Product is flawless as well.,positive
+287,False advertising. Key features promised for this electric kettle are completely missing.,negative
+288,Warning: Customer service was unhelpful and refused to replace the defective Bluetooth speaker.,negative
+289,Setup was a complete nightmare and the instructions make no sense at all.,negative
+290,Outstanding customer support when my portable charger needed attention. Very flawless service. Really glad I chose this brand.,positive
+291,I have been using this streaming mic daily for a month and it performs flawlessly.,positive
+292,Overall: Fast delivery and the smartwatch arrived in mint condition. Would definitely buy again.,positive
+293,The product does not match the photos or description online. Very dreadful.,negative
+294,Warning: Worst purchase of the year. Save your cash and look for a different soundbar.,negative
+295,Warning: Setup was a complete nightmare and the instructions make no sense at all.,negative
+296,The quality of this ergonomic office chair exceeded all my expectations. Absolutely phenomenal!,positive
+297,Customer service was unhelpful and refused to replace the defective portable charger.,negative
+298,The product does not match the photos or description online. Very dreadful.,negative
+299,Outstanding customer support when my noise-cancelling earbuds needed attention. Very wonderful service.,positive
+300,One star. The tablet screen protector arrived with missing parts and broken packaging. Avoid at all costs.,negative
+301,Zero durability. The buttons on the laptop stand jammed after light everyday use.,negative
+302,Fast delivery and the mesh router arrived in mint condition. Would definitely buy again.,positive
+303,Outstanding customer support when my external SSD needed attention. Very flawless service. Really glad I chose this brand.,positive
+304,Customer service resolved my query within minutes. Product is brilliant as well.,positive
+305,False advertising. Key features promised for this espresso machine are completely missing.,negative
+306,Overall: Outstanding customer support when my laptop stand needed attention. Very terrific service.,positive
+307,Customer support ignored my emails for over a week. Absolutely disappointing service.,negative
+308,One star. The wireless headphones arrived with missing parts and broken packaging.,negative
+309,Customer support ignored my emails for over a week. Absolutely appalling service.,negative
+310,Zero durability. The buttons on the dash cam jammed after light everyday use.,negative
+311,Impressed with the prompt shipping and high quality of this soundbar.,positive
+312,Setup was a complete nightmare and the instructions make no sense at all.,negative
+313,The noise-cancelling earbuds frequently overheats and crashes. Completely unreliable. Avoid at all costs.,negative
+314,The product does not match the photos or description online. Very dreadful.,negative
+315,"Glitchy software, constant errors, and sluggish performance. Very subpar.",negative
+316,Overall: Customer service resolved my query within minutes. Product is delightful as well.,positive
+317,Overall: A game changer in my daily routine. I cannot imagine working without this smart thermostat.,positive
+318,Tremendous improvement over my previous model. Loving this electric kettle so far. Really glad I chose this brand.,positive
+319,The battery life and responsiveness of this mesh router blew me away. Truly terrific. Really glad I chose this brand.,positive
+320,Fast delivery and the LED desk lamp arrived in mint condition. Would definitely buy again.,positive
+321,Impressed with the prompt shipping and high quality of this external SSD.,positive
+322,Do not waste your money on this fitness tracker. Total scam and awful quality. Avoid at all costs.,negative
+323,Five stars! The streaming mic works exactly as described in the specifications.,positive
+324,Horrible experience. The return process for this wireless headphones was a frustrating ordeal. Avoid at all costs.,negative
+325,Exceptional value for money. The tablet screen protector works far better than more expensive alternatives.,positive
+326,False advertising. Key features promised for this soundbar are completely missing.,negative
+327,Setup was a complete nightmare and the instructions make no sense at all.,negative
+328,Customer service resolved my query within minutes. Product is wonderful as well.,positive
+329,The battery life and responsiveness of this electric kettle blew me away. Truly brilliant.,positive
+330,Customer support ignored my emails for over a week. Absolutely frustrating service.,negative
+331,False advertising. Key features promised for this kitchen blender are completely missing. Avoid at all costs.,negative
+332,Does everything it promises with speed and reliability. Very phenomenal purchase.,positive
+333,One of the best purchases I've made this year. The air purifier is simply superb. Really glad I chose this brand.,positive
+334,One of the best purchases I've made this year. The air purifier is simply superb.,positive
+335,Highly recommended! The build quality and finish of the security camera are top-tier.,positive
+336,One of the best purchases I've made this year. The fitness tracker is simply superb.,positive
+337,Warning: Worst purchase of the year. Save your cash and look for a different air purifier.,negative
+338,The quality of this graphics tablet exceeded all my expectations. Absolutely brilliant!,positive
+339,Broke on the second day of use. Flimsy materials and poor craftsmanship. Avoid at all costs.,negative
+340,Worst purchase of the year. Save your cash and look for a different wireless headphones.,negative
+341,Loud annoying buzzing sound whenever the electric kettle is powered on. Defective unit. Avoid at all costs.,negative
+342,Terrible build quality. The vacuum cleaner stopped working after just three days. Avoid at all costs.,negative
+343,The quality of this streaming mic exceeded all my expectations. Absolutely brilliant! Really glad I chose this brand.,positive
+344,Loud annoying buzzing sound whenever the soundbar is powered on. Defective unit.,negative
+345,One star. The dash cam arrived with missing parts and broken packaging.,negative
+346,Overall: The battery life and responsiveness of this vacuum cleaner blew me away. Truly impressive.,positive
+347,Loud annoying buzzing sound whenever the vacuum cleaner is powered on. Defective unit.,negative
+348,Warning: Customer service was unhelpful and refused to replace the defective soundbar.,negative
+349,Overall: Delivered two days earlier than expected. Very stellar experience overall.,positive
+350,Delivered two days earlier than expected. Very impressive experience overall.,positive
+351,Warning: Zero durability. The buttons on the smartwatch jammed after light everyday use.,negative
+352,Does everything it promises with speed and reliability. Very superb purchase.,positive
+353,Extremely disappointed with this noise-cancelling earbuds. It feels cheap and performs poorly.,negative
+354,Five stars! The espresso machine works exactly as described in the specifications.,positive
+355,Outstanding customer support when my smartwatch needed attention. Very impressive service.,positive
+356,Outstanding customer support when my espresso machine needed attention. Very flawless service.,positive
+357,Five stars! The espresso machine works exactly as described in the specifications. Really glad I chose this brand.,positive
+358,Top notch craftsmanship! The LED desk lamp looks and feels luxurious.,positive
+359,Fantastic experience from ordering to delivery. The vacuum cleaner is superb and reliable.,positive
+360,One of the best purchases I've made this year. The espresso machine is simply superb.,positive
+361,Customer service was unhelpful and refused to replace the defective dash cam.,negative
+362,Highly recommended! The build quality and finish of the graphics tablet are top-tier. Really glad I chose this brand.,positive
+363,Impressed with the prompt shipping and high quality of this kitchen blender.,positive
+364,Does everything it promises with speed and reliability. Very brilliant purchase. Really glad I chose this brand.,positive
+365,False advertising. Key features promised for this external SSD are completely missing.,negative
+366,Worst purchase of the year. Save your cash and look for a different graphics tablet. Avoid at all costs.,negative
+367,Battery drains in less than an hour. This kitchen blender is practically useless.,negative
+368,Battery drains in less than an hour. This mesh router is practically useless.,negative
+369,Setup was a complete nightmare and the instructions make no sense at all.,negative
+370,Terrible build quality. The tablet screen protector stopped working after just three days.,negative
+371,Impressed with the prompt shipping and high quality of this gaming monitor.,positive
+372,Customer service resolved my query within minutes. Product is flawless as well.,positive
+373,Super easy setup and seamless integration. This tablet screen protector is genuinely phenomenal.,positive
+374,Exceptional value for money. The soundbar works far better than more expensive alternatives.,positive
+375,Tremendous improvement over my previous model. Loving this vacuum cleaner so far.,positive
+376,Setup was a complete nightmare and the instructions make no sense at all. Avoid at all costs.,negative
+377,The battery life and responsiveness of this noise-cancelling earbuds blew me away. Truly delightful.,positive
+378,"Regret buying this wireless headphones. You get what you pay for, and this is pure junk.",negative
+379,Terrible build quality. The vacuum cleaner stopped working after just three days.,negative
+380,Extremely disappointed with this soundbar. It feels cheap and performs poorly.,negative
+381,"Regret buying this vacuum cleaner. You get what you pay for, and this is pure junk.",negative
+382,Fantastic experience from ordering to delivery. The tablet screen protector is stellar and reliable. Really glad I chose this brand.,positive
+383,Top notch craftsmanship! The soundbar looks and feels luxurious. Really glad I chose this brand.,positive
+384,One star. The LED desk lamp arrived with missing parts and broken packaging.,negative
+385,"Crisp design, intuitive controls, and robust build. Love this soundbar!",positive
+386,Five stars! The dash cam works exactly as described in the specifications.,positive
+387,Loud annoying buzzing sound whenever the dash cam is powered on. Defective unit.,negative
+388,Battery drains in less than an hour. This wireless headphones is practically useless. Avoid at all costs.,negative
+389,Do not waste your money on this portable charger. Total scam and awful quality. Avoid at all costs.,negative
+390,Exceptional value for money. The portable charger works far better than more expensive alternatives.,positive
+391,Horrible experience. The return process for this tablet screen protector was a frustrating ordeal. Avoid at all costs.,negative
+392,Exceptional value for money. The external SSD works far better than more expensive alternatives.,positive
+393,Warning: Battery drains in less than an hour. This kitchen blender is practically useless.,negative
+394,Shipping was delayed by two weeks and the tablet screen protector arrived damaged and dented.,negative
+395,The product does not match the photos or description online. Very abysmal.,negative
+396,The quality of this laptop stand exceeded all my expectations. Absolutely phenomenal!,positive
+397,False advertising. Key features promised for this graphics tablet are completely missing.,negative
+398,Warning: Zero durability. The buttons on the LED desk lamp jammed after light everyday use.,negative
+399,Highly recommended! The build quality and finish of the espresso machine are top-tier.,positive
+400,Warning: Extremely disappointed with this gaming monitor. It feels cheap and performs poorly.,negative
+401,Exceptional value for money. The kitchen blender works far better than more expensive alternatives. Really glad I chose this brand.,positive
+402,Worst purchase of the year. Save your cash and look for a different ergonomic office chair. Avoid at all costs.,negative
+403,Overall: Worth every penny. The fitness tracker feels solid and runs whisper-quiet.,positive
+404,Customer service resolved my query within minutes. Product is flawless as well. Really glad I chose this brand.,positive
+405,I have been using this mesh router daily for a month and it performs flawlessly.,positive
+406,Does everything it promises with speed and reliability. Very wonderful purchase. Really glad I chose this brand.,positive
+407,Overall: Super easy setup and seamless integration. This kitchen blender is genuinely delightful.,positive
+408,Fantastic experience from ordering to delivery. The espresso machine is terrific and reliable.,positive
+409,Loud annoying buzzing sound whenever the security camera is powered on. Defective unit. Avoid at all costs.,negative
+410,Fantastic experience from ordering to delivery. The noise-cancelling earbuds is phenomenal and reliable.,positive
+411,Super easy setup and seamless integration. This portable charger is genuinely delightful.,positive
+412,Overall: Fantastic experience from ordering to delivery. The graphics tablet is impressive and reliable.,positive
+413,Warning: Do not waste your money on this espresso machine. Total scam and awful quality.,negative
+414,"Warning: Regret buying this LED desk lamp. You get what you pay for, and this is pure junk.",negative
+415,Warning: Do not waste your money on this electric kettle. Total scam and awful quality.,negative
+416,The product does not match the photos or description online. Very horrendous.,negative
+417,Delivered two days earlier than expected. Very brilliant experience overall.,positive
+418,Worst purchase of the year. Save your cash and look for a different mesh router.,negative
+419,Warning: Slow and unresponsive. The companion app for this laptop stand crashes on startup.,negative
+420,Super easy setup and seamless integration. This kitchen blender is genuinely brilliant. Really glad I chose this brand.,positive
+421,Highly recommended! The build quality and finish of the security camera are top-tier.,positive
+422,Delivered two days earlier than expected. Very wonderful experience overall. Really glad I chose this brand.,positive
+423,Battery drains in less than an hour. This gaming monitor is practically useless.,negative
+424,Do not waste your money on this tablet screen protector. Total scam and awful quality.,negative
+425,False advertising. Key features promised for this kitchen blender are completely missing. Avoid at all costs.,negative
+426,Do not waste your money on this fitness tracker. Total scam and awful quality.,negative
+427,Fast delivery and the espresso machine arrived in mint condition. Would definitely buy again.,positive
+428,Overall: Fast delivery and the tablet screen protector arrived in mint condition. Would definitely buy again.,positive
+429,Tremendous improvement over my previous model. Loving this vacuum cleaner so far.,positive
+430,Top notch craftsmanship! The dash cam looks and feels luxurious.,positive
+431,Warning: The product does not match the photos or description online. Very pathetic.,negative
+432,Fast delivery and the Bluetooth speaker arrived in mint condition. Would definitely buy again.,positive
+433,Do not waste your money on this noise-cancelling earbuds. Total scam and awful quality.,negative
+434,Outstanding customer support when my soundbar needed attention. Very stellar service.,positive
+435,Fast delivery and the LED desk lamp arrived in mint condition. Would definitely buy again. Really glad I chose this brand.,positive
+436,Fast delivery and the vacuum cleaner arrived in mint condition. Would definitely buy again. Really glad I chose this brand.,positive
+437,Fast delivery and the mesh router arrived in mint condition. Would definitely buy again.,positive
+438,Exceptional value for money. The kitchen blender works far better than more expensive alternatives.,positive
+439,Terrible build quality. The fitness tracker stopped working after just three days.,negative
+440,Overall: Tremendous improvement over my previous model. Loving this kitchen blender so far.,positive
+441,Five stars! The portable charger works exactly as described in the specifications.,positive
+442,Impressed with the prompt shipping and high quality of this electric kettle.,positive
+443,One of the best purchases I've made this year. The wireless headphones is simply superb.,positive
+444,Customer support ignored my emails for over a week. Absolutely subpar service.,negative
+445,One star. The noise-cancelling earbuds arrived with missing parts and broken packaging. Avoid at all costs.,negative
+446,The quality of this fitness tracker exceeded all my expectations. Absolutely superb! Really glad I chose this brand.,positive
+447,Battery drains in less than an hour. This tablet screen protector is practically useless.,negative
+448,Zero durability. The buttons on the air purifier jammed after light everyday use.,negative
+449,One star. The security camera arrived with missing parts and broken packaging.,negative
+450,Five stars! The vacuum cleaner works exactly as described in the specifications.,positive
+451,Delivered two days earlier than expected. Very brilliant experience overall.,positive
+452,Worth every penny. The security camera feels solid and runs whisper-quiet.,positive
+453,Highly recommended! The build quality and finish of the fitness tracker are top-tier.,positive
+454,A game changer in my daily routine. I cannot imagine working without this wireless headphones.,positive
+455,Horrible experience. The return process for this portable charger was a frustrating ordeal.,negative
+456,Worst purchase of the year. Save your cash and look for a different security camera.,negative
+457,One star. The laptop stand arrived with missing parts and broken packaging.,negative
+458,Loud annoying buzzing sound whenever the tablet screen protector is powered on. Defective unit.,negative
+459,Does everything it promises with speed and reliability. Very superb purchase.,positive
+460,Extremely disappointed with this dash cam. It feels cheap and performs poorly. Avoid at all costs.,negative
+461,Customer service was unhelpful and refused to replace the defective tablet screen protector.,negative
+462,Fast delivery and the graphics tablet arrived in mint condition. Would definitely buy again.,positive
+463,Customer service resolved my query within minutes. Product is wonderful as well.,positive
+464,Slow and unresponsive. The companion app for this wireless headphones crashes on startup.,negative
+465,One of the best purchases I've made this year. The Bluetooth speaker is simply superb.,positive
+466,Does everything it promises with speed and reliability. Very delightful purchase. Really glad I chose this brand.,positive
+467,Overall: Top notch craftsmanship! The dash cam looks and feels luxurious.,positive
+468,False advertising. Key features promised for this mechanical keyboard are completely missing.,negative
+469,Highly recommended! The build quality and finish of the tablet screen protector are top-tier.,positive
+470,Customer support ignored my emails for over a week. Absolutely pathetic service.,negative
+471,"Glitchy software, constant errors, and sluggish performance. Very unacceptable.",negative
+472,"Glitchy software, constant errors, and sluggish performance. Very appalling.",negative
+473,Five stars! The dash cam works exactly as described in the specifications. Really glad I chose this brand.,positive
+474,Fast delivery and the soundbar arrived in mint condition. Would definitely buy again.,positive
+475,Zero durability. The buttons on the portable charger jammed after light everyday use.,negative
+476,Exceptional value for money. The tablet screen protector works far better than more expensive alternatives.,positive
+477,Zero durability. The buttons on the espresso machine jammed after light everyday use.,negative
+478,Extremely disappointed with this portable charger. It feels cheap and performs poorly.,negative
+479,One star. The electric kettle arrived with missing parts and broken packaging.,negative
+480,Highly recommended! The build quality and finish of the laptop stand are top-tier.,positive
+481,Broke on the second day of use. Flimsy materials and poor craftsmanship. Avoid at all costs.,negative
+482,Tremendous improvement over my previous model. Loving this smartwatch so far. Really glad I chose this brand.,positive
+483,Super easy setup and seamless integration. This electric kettle is genuinely wonderful. Really glad I chose this brand.,positive
+484,Highly recommended! The build quality and finish of the mechanical keyboard are top-tier.,positive
+485,Fantastic experience from ordering to delivery. The smart thermostat is brilliant and reliable. Really glad I chose this brand.,positive
+486,The quality of this noise-cancelling earbuds exceeded all my expectations. Absolutely terrific!,positive
+487,"Crisp design, intuitive controls, and robust build. Love this fitness tracker! Really glad I chose this brand.",positive
+488,Impressed with the prompt shipping and high quality of this smartwatch.,positive
+489,Does everything it promises with speed and reliability. Very impeccable purchase.,positive
+490,"Glitchy software, constant errors, and sluggish performance. Very appalling.",negative
+491,Loud annoying buzzing sound whenever the mechanical keyboard is powered on. Defective unit.,negative
+492,Top notch craftsmanship! The portable charger looks and feels luxurious.,positive
+493,Worth every penny. The portable charger feels solid and runs whisper-quiet.,positive
+494,Customer service was unhelpful and refused to replace the defective noise-cancelling earbuds. Avoid at all costs.,negative
+495,Zero durability. The buttons on the smartwatch jammed after light everyday use. Avoid at all costs.,negative
+496,Does everything it promises with speed and reliability. Very wonderful purchase.,positive
+497,"Crisp design, intuitive controls, and robust build. Love this electric kettle!",positive
+498,Fast delivery and the gaming monitor arrived in mint condition. Would definitely buy again.,positive
+499,Customer service was unhelpful and refused to replace the defective Bluetooth speaker.,negative
+500,"Regret buying this Bluetooth speaker. You get what you pay for, and this is pure junk. Avoid at all costs.",negative
