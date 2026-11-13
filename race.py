@@ -613,6 +613,10 @@ def generate_markdown_report(
 
     table_md = tabulate(rows, headers=headers, tablefmt="github")
 
+    sklearn_ms = results[0].time_per_review_ms
+    cloud_speedup = int(results[1].time_per_review_ms / max(0.001, sklearn_ms))
+    ollama_speedup = int(results[2].time_per_review_ms / max(0.001, sklearn_ms))
+
     report_content = f"""# Assignment 8: Model Race Results
 
 ## Results Table
@@ -623,7 +627,7 @@ def generate_markdown_report(
 
 ## Production Recommendation (Which Model to Ship)
 
-For this customer review sentiment classification task, I would ship **scikit-learn (TF-IDF + Logistic Regression)**. It delivers a perfect 1.0000 accuracy and F1 score on the test set while running at an astonishing **0.02 ms per review**—over **100,000x faster** than the cloud LLM and **200,000x faster** than local Ollama. Furthermore, it operates completely offline with **zero token cost ($0.00)**, no network latency, and no external API failure modes or rate limit constraints. While LLMs provide unmatched value for unstructured generative tasks and multi-step reasoning, classical ML is the unequivocal, battle-tested production choice for high-throughput, latency-critical text classification.
+For this customer review sentiment classification task, I would ship **scikit-learn (TF-IDF + Logistic Regression)**. It delivers a perfect 1.0000 accuracy and F1 score on the test set while running at an astonishing **{sklearn_ms:.2f} ms per review**—over **{cloud_speedup:,}x faster** than the cloud LLM and **{ollama_speedup:,}x faster** than local Ollama. Furthermore, it operates completely offline with **zero token cost ($0.00)**, no network latency, and no external API failure modes or rate limit constraints. While LLMs provide unmatched value for unstructured generative tasks and multi-step reasoning, classical ML is the unequivocal, battle-tested production choice for high-throughput, latency-critical text classification.
 
 ---
 

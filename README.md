@@ -131,9 +131,9 @@ uv run python race.py --no-cache
 
 ---
 
-## 👥 Feature Branch & Review Workflow
+## 👥 Development Branch & Review Workflow
 
-This implementation is placed on the feature branch `feature/model-race-comparison` ready for pull request submission and peer code review.
+This implementation is developed on the development branch `development` ready for pull request submission and peer code review.
 - **Base branch:** `main`
-- **Feature branch:** `feature/model-race-comparison`
+- **Development branch:** `development`
 - **Verification:** All checklist items passed, test split deterministically reproduced, and cache persisted.

@@ -12,7 +12,7 @@
 
 ## Production Recommendation (Which Model to Ship)
 
-For this customer review sentiment classification task, I would ship **scikit-learn (TF-IDF + Logistic Regression)**. It delivers a perfect 1.0000 accuracy and F1 score on the test set while running at an astonishing **0.02 ms per review**—over **100,000x faster** than the cloud LLM and **200,000x faster** than local Ollama. Furthermore, it operates completely offline with **zero token cost ($0.00)**, no network latency, and no external API failure modes or rate limit constraints. While LLMs provide unmatched value for unstructured generative tasks and multi-step reasoning, classical ML is the unequivocal, battle-tested production choice for high-throughput, latency-critical text classification.
+For this customer review sentiment classification task, I would ship **scikit-learn (TF-IDF + Logistic Regression)**. It delivers a perfect 1.0000 accuracy and F1 score on the test set while running at an astonishing **0.10 ms per review**—over **21,482x faster** than the cloud LLM and **43,476x faster** than local Ollama. Furthermore, it operates completely offline with **zero token cost ($0.00)**, no network latency, and no external API failure modes or rate limit constraints. While LLMs provide unmatched value for unstructured generative tasks and multi-step reasoning, classical ML is the unequivocal, battle-tested production choice for high-throughput, latency-critical text classification.
 
 ---
 
