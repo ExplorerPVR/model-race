@@ -24,9 +24,9 @@ All three models are scored on the **exact same 100-sample test set (20%)** usin
 
 | Model | Accuracy | Precision | Recall | F1 | Cost at paid list price (USD) | Time per review (ms) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **scikit-learn (TF-IDF + logistic regression)** | **1.0000** | **1.0000** | **1.0000** | **1.0000** | **$0.000000** | **0.10 ms** |
-| **Cloud LLM (Groq: qwen/qwen3.8-27b)** | **1.0000** | **1.0000** | **1.0000** | **1.0000** | **$0.001608** | **2,217.31 ms** |
-| **Ollama (llama3:latest)** | **1.0000** | **1.0000** | **1.0000** | **1.0000** | **$0.000000** | **4,487.46 ms** |
+| **scikit-learn (TF-IDF + logistic regression)** | **1.0000** | **1.0000** | **1.0000** | **1.0000** | **$0.000000** | **0.16 ms** |
+| **Cloud LLM (Groq: qwen/qwen3.8-27b)** | **1.0000** | **1.0000** | **1.0000** | **1.0000** | **$0.002002** | **2,195.85 ms** |
+| **Ollama (llama3:latest)** | **1.0000** | **1.0000** | **1.0000** | **1.0000** | **$0.000000** | **4,718.61 ms** |
 
 *(Detailed analysis and breakdown available in [`results.md`](./results.md))*
 
@@ -36,8 +36,8 @@ All three models are scored on the **exact same 100-sample test set (20%)** usin
 
 **I would unequivocally ship scikit-learn (TF-IDF + Logistic Regression) for this task.**
 
-1. **Speed & Latency:** At **0.10 ms per review**, scikit-learn is over **20,000x faster** than the Cloud LLM (~2,217 ms per request including network roundtrips) and **40,000x faster** than local Ollama (~4,487 ms).
-2. **Cost:** Running on CPU requires **$0.00** in token costs, eliminating recurring vendor fees ($1.60 per 100k reviews on Groq, significantly higher on larger proprietary LLMs).
+1. **Speed & Latency:** At **0.16 ms per review**, scikit-learn is over **13,000x faster** than the Cloud LLM (~2,196 ms per request including network roundtrips) and **28,000x faster** than local Ollama (~4,719 ms).
+2. **Cost:** Running on CPU requires **$0.00** in token costs, eliminating recurring vendor fees ($2.00 per 100k reviews on Groq, significantly higher on larger proprietary LLMs).
 3. **Reliability & Simplicity:** Classical ML runs completely offline without network dependencies, provider rate limits (e.g. HTTP 429), API keys, or GPU infrastructure requirements.
 4. **When to use LLMs:** LLMs remain indispensable for unstructured generative tasks, reasoning over ambiguous contexts, or zero-shot cold starts without labeled data. However, once 400 labeled domain examples are available, classical linear models achieve equal or superior accuracy with near-zero latency and cost.
 
