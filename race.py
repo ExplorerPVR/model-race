@@ -273,7 +273,6 @@ def generate(
             model=target_model,
             messages=[{"role": "user", "content": prompt}],
             stream=True,
-            stream_options={"include_usage": True},
             temperature=0.0,
             max_tokens=5,
         )
