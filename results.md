@@ -4,7 +4,7 @@
 
 | Model                                       |   Accuracy |   Precision |   Recall |   F1 | Cost at paid list price (USD)   | Time per review (ms)   |
 |---------------------------------------------|------------|-------------|----------|------|---------------------------------|------------------------|
-| scikit-learn (TF-IDF + logistic regression) |          1 |           1 |        1 |    1 | $0.000000                       | 0.10 ms                |
+| scikit-learn (TF-IDF + logistic regression) |          1 |           1 |        1 |    1 | $0.000000                       | 0.11 ms                |
 | Cloud LLM (Groq: qwen/qwen3.8-27b)          |          1 |           1 |        1 |    1 | $0.001608                       | 2217.31 ms             |
 | Ollama (llama3:latest)                      |          1 |           1 |        1 |    1 | $0.000000                       | 4487.46 ms             |
 
