@@ -1,0 +1,802 @@
+{
+  "llama3:latest::0::fff9aad5dad6945a": {
+    "test_index": 0,
+    "text": "Worth every penny. The air purifier feels solid and runs whisper-quiet.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 21867.337099974975
+  },
+  "llama3:latest::1::008ed12372ff70d1": {
+    "test_index": 1,
+    "text": "Warning: Extremely disappointed with this soundbar. It feels cheap and performs poorly.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4381.600399967283
+  },
+  "llama3:latest::2::54a03368ce587377": {
+    "test_index": 2,
+    "text": "False advertising. Key features promised for this mechanical keyboard are completely missing.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4041.8954000342637
+  },
+  "llama3:latest::3::d2d1bd8508d7bc29": {
+    "test_index": 3,
+    "text": "Overall: Customer service resolved my query within minutes. Product is delightful as well.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4368.324200157076
+  },
+  "llama3:latest::4::1bcad5c951176e2a": {
+    "test_index": 4,
+    "text": "Does everything it promises with speed and reliability. Very wonderful purchase. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4673.934999853373
+  },
+  "llama3:latest::5::a67cb7cbd09c8c57": {
+    "test_index": 5,
+    "text": "One of the best purchases I've made this year. The wireless headphones is simply superb.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4555.893500102684
+  },
+  "llama3:latest::6::1c2e4295a42203cb": {
+    "test_index": 6,
+    "text": "Overall: Fast delivery and the smartwatch arrived in mint condition. Would definitely buy again.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4410.713700111955
+  },
+  "llama3:latest::7::8750374c36529f0a": {
+    "test_index": 7,
+    "text": "Setup was a complete nightmare and the instructions make no sense at all.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4003.9729001000524
+  },
+  "llama3:latest::8::5c3f184020d61480": {
+    "test_index": 8,
+    "text": "Terrible build quality. The smartwatch stopped working after just three days. Avoid at all costs.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4490.176500054076
+  },
+  "llama3:latest::9::13b6d41755859a08": {
+    "test_index": 9,
+    "text": "Battery drains in less than an hour. This smartwatch is practically useless.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4014.8235000669956
+  },
+  "llama3:latest::10::54a03368ce587377": {
+    "test_index": 10,
+    "text": "False advertising. Key features promised for this mechanical keyboard are completely missing.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3891.9979999773204
+  },
+  "llama3:latest::11::1314fe855d0fd7cd": {
+    "test_index": 11,
+    "text": "Warning: Worst purchase of the year. Save your cash and look for a different air purifier.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4052.6761000510305
+  },
+  "llama3:latest::12::cccbd93b40ee3bd2": {
+    "test_index": 12,
+    "text": "One of the best purchases I've made this year. The fitness tracker is simply superb.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4449.329899856821
+  },
+  "llama3:latest::13::082696f5630e59b9": {
+    "test_index": 13,
+    "text": "Worth every penny. The Bluetooth speaker feels solid and runs whisper-quiet.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3974.1171998903155
+  },
+  "llama3:latest::14::591c5f8ab33837eb": {
+    "test_index": 14,
+    "text": "Fast delivery and the noise-cancelling earbuds arrived in mint condition. Would definitely buy again. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4483.075099997222
+  },
+  "llama3:latest::15::22c058bb01d918c9": {
+    "test_index": 15,
+    "text": "Highly recommended! The build quality and finish of the tablet screen protector are top-tier.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4111.299599986523
+  },
+  "llama3:latest::16::324741d14c0c0d1a": {
+    "test_index": 16,
+    "text": "The quality of this tablet screen protector exceeded all my expectations. Absolutely brilliant!",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3891.5110998786986
+  },
+  "llama3:latest::17::3ec522ae962034cb": {
+    "test_index": 17,
+    "text": "Super easy setup and seamless integration. This portable charger is genuinely phenomenal.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4011.5444001276046
+  },
+  "llama3:latest::18::7b124614573c0985": {
+    "test_index": 18,
+    "text": "The quality of this soundbar exceeded all my expectations. Absolutely delightful!",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3889.002300100401
+  },
+  "llama3:latest::19::dfcfd5a69e6c2a18": {
+    "test_index": 19,
+    "text": "Terrible build quality. The tablet screen protector stopped working after just three days.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3992.3356999643147
+  },
+  "llama3:latest::20::8d2b6645d1dabd75": {
+    "test_index": 20,
+    "text": "Overall: Delivered two days earlier than expected. Very phenomenal experience overall.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4093.665400054306
+  },
+  "llama3:latest::21::6b56e87e685b0636": {
+    "test_index": 21,
+    "text": "The quality of this soundbar exceeded all my expectations. Absolutely impeccable!",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3970.9588999394327
+  },
+  "llama3:latest::22::13c9b0f314f35ee1": {
+    "test_index": 22,
+    "text": "Five stars! The vacuum cleaner works exactly as described in the specifications.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3953.761799959466
+  },
+  "llama3:latest::23::07fedc122f71ed67": {
+    "test_index": 23,
+    "text": "Worst purchase of the year. Save your cash and look for a different mesh router.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4116.716100135818
+  },
+  "llama3:latest::24::fef61bd159ba827f": {
+    "test_index": 24,
+    "text": "Worst purchase of the year. Save your cash and look for a different smart thermostat. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3376.0130000300705
+  },
+  "llama3:latest::25::b218436d449c32cd": {
+    "test_index": 25,
+    "text": "The product does not match the photos or description online. Very pathetic.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3857.261599972844
+  },
+  "llama3:latest::26::be75ee60eacd62ae": {
+    "test_index": 26,
+    "text": "Outstanding customer support when my soundbar needed attention. Very stellar service.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3947.375299874693
+  },
+  "llama3:latest::27::88d87cedf720d351": {
+    "test_index": 27,
+    "text": "One star. The laptop stand arrived with missing parts and broken packaging.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4095.155900111422
+  },
+  "llama3:latest::28::9079561e2a705b2b": {
+    "test_index": 28,
+    "text": "Customer service was unhelpful and refused to replace the defective espresso machine.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3953.5121000371873
+  },
+  "llama3:latest::29::5dc863e0afb68b96": {
+    "test_index": 29,
+    "text": "Do not waste your money on this noise-cancelling earbuds. Total scam and awful quality.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4246.613000053912
+  },
+  "llama3:latest::30::e1f2e22183110e89": {
+    "test_index": 30,
+    "text": "Does everything it promises with speed and reliability. Very superb purchase.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3716.0012000240386
+  },
+  "llama3:latest::31::a46546f3e9d3101d": {
+    "test_index": 31,
+    "text": "Overall: Tremendous improvement over my previous model. Loving this kitchen blender so far.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4196.813200134784
+  },
+  "llama3:latest::32::6bcd800ff80743e5": {
+    "test_index": 32,
+    "text": "Crisp design, intuitive controls, and robust build. Love this fitness tracker! Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4417.649800190702
+  },
+  "llama3:latest::33::16d01e24e43f4c2d": {
+    "test_index": 33,
+    "text": "Impressed with the prompt shipping and high quality of this security camera.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3860.13299995102
+  },
+  "llama3:latest::34::fbf32d11e1a02056": {
+    "test_index": 34,
+    "text": "Shipping was delayed by two weeks and the tablet screen protector arrived damaged and dented.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4071.0229999385774
+  },
+  "llama3:latest::35::12555e1f292f9f7c": {
+    "test_index": 35,
+    "text": "Loud annoying buzzing sound whenever the soundbar is powered on. Defective unit.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4395.894800079986
+  },
+  "llama3:latest::36::174735ba6df1bed8": {
+    "test_index": 36,
+    "text": "Tremendous improvement over my previous model. Loving this vacuum cleaner so far. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4953.238700050861
+  },
+  "llama3:latest::37::191bab5b02ed1207": {
+    "test_index": 37,
+    "text": "Loud annoying buzzing sound whenever the Bluetooth speaker is powered on. Defective unit.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4110.957399941981
+  },
+  "llama3:latest::38::f32ee43625f35d73": {
+    "test_index": 38,
+    "text": "Zero durability. The buttons on the Bluetooth speaker jammed after light everyday use.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4314.408400095999
+  },
+  "llama3:latest::39::0aeed7406fa4c5fa": {
+    "test_index": 39,
+    "text": "Outstanding customer support when my external SSD needed attention. Very flawless service. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4505.19059994258
+  },
+  "llama3:latest::40::fc34967bde4e703d": {
+    "test_index": 40,
+    "text": "Does everything it promises with speed and reliability. Very brilliant purchase. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4357.135999947786
+  },
+  "llama3:latest::41::ecf43768062524b0": {
+    "test_index": 41,
+    "text": "The air purifier frequently overheats and crashes. Completely unreliable. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4219.99580017291
+  },
+  "llama3:latest::42::58538f90bd4832e5": {
+    "test_index": 42,
+    "text": "Worst purchase of the year. Save your cash and look for a different smartwatch.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4335.693400120363
+  },
+  "llama3:latest::43::dfecf293eb8bd23a": {
+    "test_index": 43,
+    "text": "Overall: Super easy setup and seamless integration. This portable charger is genuinely stellar.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4028.831200208515
+  },
+  "llama3:latest::44::1e5900c9dfbef568": {
+    "test_index": 44,
+    "text": "Shipping was delayed by two weeks and the electric kettle arrived damaged and dented.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3986.768800066784
+  },
+  "llama3:latest::45::142a419f041682f0": {
+    "test_index": 45,
+    "text": "False advertising. Key features promised for this electric kettle are completely missing.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4071.209599962458
+  },
+  "llama3:latest::46::4fc6f8679192ce93": {
+    "test_index": 46,
+    "text": "Fantastic experience from ordering to delivery. The noise-cancelling earbuds is phenomenal and reliable.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4671.5247998945415
+  },
+  "llama3:latest::47::b2f3be4717cad289": {
+    "test_index": 47,
+    "text": "Slow and unresponsive. The companion app for this external SSD crashes on startup.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3904.971200041473
+  },
+  "llama3:latest::48::8d1380303a7ce889": {
+    "test_index": 48,
+    "text": "Overall: Delivered two days earlier than expected. Very terrific experience overall.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3941.5235000196844
+  },
+  "llama3:latest::49::3a7114ba734a7ed0": {
+    "test_index": 49,
+    "text": "Warning: Extremely disappointed with this gaming monitor. It feels cheap and performs poorly.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3915.236299857497
+  },
+  "llama3:latest::50::3f72fdd28878004a": {
+    "test_index": 50,
+    "text": "False advertising. Key features promised for this security camera are completely missing.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4098.4058000613
+  },
+  "llama3:latest::51::be4cbb10ff25f19c": {
+    "test_index": 51,
+    "text": "Customer support ignored my emails for over a week. Absolutely disappointing service.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4277.958800084889
+  },
+  "llama3:latest::52::126ac76aba761a04": {
+    "test_index": 52,
+    "text": "Extremely disappointed with this ergonomic office chair. It feels cheap and performs poorly.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4168.343000113964
+  },
+  "llama3:latest::53::f9e2d3a0fc76b122": {
+    "test_index": 53,
+    "text": "Fantastic experience from ordering to delivery. The tablet screen protector is stellar and reliable. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4701.893999939784
+  },
+  "llama3:latest::54::f1a0adc61a723636": {
+    "test_index": 54,
+    "text": "Outstanding customer support when my wireless headphones needed attention. Very stellar service. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4414.476600009948
+  },
+  "llama3:latest::55::a7f64ebea0e8296a": {
+    "test_index": 55,
+    "text": "Worth every penny. The security camera feels solid and runs whisper-quiet.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4002.896500052884
+  },
+  "llama3:latest::56::87b349697a113090": {
+    "test_index": 56,
+    "text": "Loud annoying buzzing sound whenever the smartwatch is powered on. Defective unit.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4026.0644999798387
+  },
+  "llama3:latest::57::fd88ab9db4e42a23": {
+    "test_index": 57,
+    "text": "Warning: Battery drains in less than an hour. This kitchen blender is practically useless.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4139.487900072709
+  },
+  "llama3:latest::58::59716a0a0df2943a": {
+    "test_index": 58,
+    "text": "The battery life and responsiveness of this mesh router blew me away. Truly terrific. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4778.922900091857
+  },
+  "llama3:latest::59::6b49b78f41e56af7": {
+    "test_index": 59,
+    "text": "The vacuum cleaner frequently overheats and crashes. Completely unreliable. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4194.725999841467
+  },
+  "llama3:latest::60::5a30d429745d76a1": {
+    "test_index": 60,
+    "text": "Impressed with the prompt shipping and high quality of this smartwatch.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4066.7836000211537
+  },
+  "llama3:latest::61::e26d101ba0233b38": {
+    "test_index": 61,
+    "text": "Regret buying this laptop stand. You get what you pay for, and this is pure junk.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4261.220999993384
+  },
+  "llama3:latest::62::c299c3dd8ea8fab8": {
+    "test_index": 62,
+    "text": "Overall: Fast delivery and the tablet screen protector arrived in mint condition. Would definitely buy again.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4352.93719987385
+  },
+  "llama3:latest::63::38ad80faa66e6dd6": {
+    "test_index": 63,
+    "text": "Battery drains in less than an hour. This mesh router is practically useless.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4092.44230017066
+  },
+  "llama3:latest::64::e1f2e22183110e89": {
+    "test_index": 64,
+    "text": "Does everything it promises with speed and reliability. Very superb purchase.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3784.9014000967145
+  },
+  "llama3:latest::65::64d3615b484e3cb3": {
+    "test_index": 65,
+    "text": "Slow and unresponsive. The companion app for this mesh router crashes on startup.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3881.7523000761867
+  },
+  "llama3:latest::66::892ab6a71ffa5d0e": {
+    "test_index": 66,
+    "text": "One of the best purchases I've made this year. The portable charger is simply superb.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4117.960599949583
+  },
+  "llama3:latest::67::ed4c8b81bd2b6aee": {
+    "test_index": 67,
+    "text": "Fast delivery and the LED desk lamp arrived in mint condition. Would definitely buy again.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4450.349499937147
+  },
+  "llama3:latest::68::9079561e2a705b2b": {
+    "test_index": 68,
+    "text": "Customer service was unhelpful and refused to replace the defective espresso machine.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4497.764700092375
+  },
+  "llama3:latest::69::01674592e8162ae6": {
+    "test_index": 69,
+    "text": "Worth every penny. The electric kettle feels solid and runs whisper-quiet.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4907.427800120786
+  },
+  "llama3:latest::70::41646ffac743b4b4": {
+    "test_index": 70,
+    "text": "Worth every penny. The mechanical keyboard feels solid and runs whisper-quiet.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4672.705700155348
+  },
+  "llama3:latest::71::c3c6bb52f9330d3e": {
+    "test_index": 71,
+    "text": "One star. The electric kettle arrived with missing parts and broken packaging.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4258.3465001080185
+  },
+  "llama3:latest::72::55f7a415b80eb859": {
+    "test_index": 72,
+    "text": "Worst purchase of the year. Save your cash and look for a different graphics tablet. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4862.582299858332
+  },
+  "llama3:latest::73::50a655dbce0991f6": {
+    "test_index": 73,
+    "text": "The quality of this streaming mic exceeded all my expectations. Absolutely brilliant! Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4828.05519993417
+  },
+  "llama3:latest::74::66c70c65b566cba3": {
+    "test_index": 74,
+    "text": "Shipping was delayed by two weeks and the kitchen blender arrived damaged and dented.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4239.198400173336
+  },
+  "llama3:latest::75::0cbd84a532c0e9a4": {
+    "test_index": 75,
+    "text": "One of the best purchases I've made this year. The air purifier is simply superb.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 5548.857299843803
+  },
+  "llama3:latest::76::e6ae36956e84c61a": {
+    "test_index": 76,
+    "text": "Fantastic experience from ordering to delivery. The graphics tablet is phenomenal and reliable. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 5313.520299969241
+  },
+  "llama3:latest::77::8ff0c2f711df9d77": {
+    "test_index": 77,
+    "text": "Does everything it promises with speed and reliability. Very phenomenal purchase.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4404.150799848139
+  },
+  "llama3:latest::78::af4ebeb9c9bd8329": {
+    "test_index": 78,
+    "text": "Crisp design, intuitive controls, and robust build. Love this electric kettle!",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4720.391500042751
+  },
+  "llama3:latest::79::bb72022b27bc8c5f": {
+    "test_index": 79,
+    "text": "Fantastic experience from ordering to delivery. The security camera is delightful and reliable.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 5246.227000141516
+  },
+  "llama3:latest::80::82248ada015f5b4d": {
+    "test_index": 80,
+    "text": "One star. The tablet screen protector arrived with missing parts and broken packaging. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 7510.8748998027295
+  },
+  "llama3:latest::81::24e777fd20051a81": {
+    "test_index": 81,
+    "text": "Overall: Delivered two days earlier than expected. Very stellar experience overall.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 5261.912300018594
+  },
+  "llama3:latest::82::e6e58ebcf3f3e156": {
+    "test_index": 82,
+    "text": "Zero durability. The buttons on the portable charger jammed after light everyday use.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4254.322599852458
+  },
+  "llama3:latest::83::8750374c36529f0a": {
+    "test_index": 83,
+    "text": "Setup was a complete nightmare and the instructions make no sense at all.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4221.6343998443335
+  },
+  "llama3:latest::84::17faed64a5600576": {
+    "test_index": 84,
+    "text": "Regret buying this Bluetooth speaker. You get what you pay for, and this is pure junk. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4538.868800038472
+  },
+  "llama3:latest::85::b24c78230c74fcdd": {
+    "test_index": 85,
+    "text": "Crisp design, intuitive controls, and robust build. Love this tablet screen protector!",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4365.458399988711
+  },
+  "llama3:latest::86::28fd96becfc96fd1": {
+    "test_index": 86,
+    "text": "Warning: Do not waste your money on this espresso machine. Total scam and awful quality.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4279.285800177604
+  },
+  "llama3:latest::87::694d5e4b19c5a823": {
+    "test_index": 87,
+    "text": "Worst purchase of the year. Save your cash and look for a different ergonomic office chair. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4432.992300018668
+  },
+  "llama3:latest::88::a1e3d90480a10471": {
+    "test_index": 88,
+    "text": "Customer support ignored my emails for over a week. Absolutely unacceptable service.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 3997.7277000434697
+  },
+  "llama3:latest::89::a1d8a83e03c19512": {
+    "test_index": 89,
+    "text": "One of the best purchases I've made this year. The air purifier is simply superb. Really glad I chose this brand.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4626.055300002918
+  },
+  "llama3:latest::90::958898b0857c53af": {
+    "test_index": 90,
+    "text": "Broke on the second day of use. Flimsy materials and poor craftsmanship.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4099.173900205642
+  },
+  "llama3:latest::91::3dc9b8ed697a8bd9": {
+    "test_index": 91,
+    "text": "Impressed with the prompt shipping and high quality of this soundbar.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 3917.764199897647
+  },
+  "llama3:latest::92::cc5364c06c0f41c5": {
+    "test_index": 92,
+    "text": "Customer service was unhelpful and refused to replace the defective noise-cancelling earbuds. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4362.761999946088
+  },
+  "llama3:latest::93::358eadb210c594d1": {
+    "test_index": 93,
+    "text": "Fast delivery and the gaming monitor arrived in mint condition. Would definitely buy again.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4069.047700148076
+  },
+  "llama3:latest::94::79666a8583fe27ec": {
+    "test_index": 94,
+    "text": "Highly recommended! The build quality and finish of the security camera are top-tier.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4036.074199946597
+  },
+  "llama3:latest::95::6a21cc7e0ec647d8": {
+    "test_index": 95,
+    "text": "Fantastic experience from ordering to delivery. The electric kettle is impressive and reliable.",
+    "raw_output": "Positive",
+    "prediction": "positive",
+    "cost_usd": 0.0,
+    "latency_ms": 4161.592699820176
+  },
+  "llama3:latest::96::cfc22389bd13efb2": {
+    "test_index": 96,
+    "text": "Horrible experience. The return process for this wireless headphones was a frustrating ordeal. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4786.810900084674
+  },
+  "llama3:latest::97::ba5c8217487df38d": {
+    "test_index": 97,
+    "text": "Regret buying this external SSD. You get what you pay for, and this is pure junk. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4733.572500059381
+  },
+  "llama3:latest::98::3ce1ae85f508d9d3": {
+    "test_index": 98,
+    "text": "One star. The external SSD arrived with missing parts and broken packaging.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4203.741499921307
+  },
+  "llama3:latest::99::28e5dad9862aca86": {
+    "test_index": 99,
+    "text": "Battery drains in less than an hour. This kitchen blender is practically useless.",
+    "raw_output": "Negative",
+    "prediction": "negative",
+    "cost_usd": 0.0,
+    "latency_ms": 4434.659300139174
+  }
+}
