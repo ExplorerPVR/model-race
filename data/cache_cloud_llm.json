@@ -1,0 +1,2012 @@
+{
+  "qwen/qwen3.8-27b::0::fff9aad5dad6945a": {
+    "test_index": 0,
+    "text": "Worth every penny. The air purifier feels solid and runs whisper-quiet.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 1962.7634000498801
+  },
+  "qwen/qwen3.8-27b::1::008ed12372ff70d1": {
+    "test_index": 1,
+    "text": "Warning: Extremely disappointed with this soundbar. It feels cheap and performs poorly.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 890.5495000071824
+  },
+  "qwen/qwen3.8-27b::2::54a03368ce587377": {
+    "test_index": 2,
+    "text": "False advertising. Key features promised for this mechanical keyboard are completely missing.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 1201.0465001221746
+  },
+  "qwen/qwen3.8-27b::3::d2d1bd8508d7bc29": {
+    "test_index": 3,
+    "text": "Overall: Customer service resolved my query within minutes. Product is delightful as well.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 1054.035299923271
+  },
+  "qwen/qwen3.8-27b::4::1bcad5c951176e2a": {
+    "test_index": 4,
+    "text": "Does everything it promises with speed and reliability. Very wonderful purchase. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 716.3064999040216
+  },
+  "qwen/qwen3.8-27b::5::a67cb7cbd09c8c57": {
+    "test_index": 5,
+    "text": "One of the best purchases I've made this year. The wireless headphones is simply superb.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 557.455400004983
+  },
+  "qwen/qwen3.8-27b::6::1c2e4295a42203cb": {
+    "test_index": 6,
+    "text": "Overall: Fast delivery and the smartwatch arrived in mint condition. Would definitely buy again.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 515.0190000422299
+  },
+  "qwen/qwen3.8-27b::7::8750374c36529f0a": {
+    "test_index": 7,
+    "text": "Setup was a complete nightmare and the instructions make no sense at all.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 650.5751998629421
+  },
+  "qwen/qwen3.8-27b::8::5c3f184020d61480": {
+    "test_index": 8,
+    "text": "Terrible build quality. The smartwatch stopped working after just three days. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 533.0026000738144
+  },
+  "qwen/qwen3.8-27b::9::13b6d41755859a08": {
+    "test_index": 9,
+    "text": "Battery drains in less than an hour. This smartwatch is practically useless.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 525.1364998985082
+  },
+  "qwen/qwen3.8-27b::10::54a03368ce587377": {
+    "test_index": 10,
+    "text": "False advertising. Key features promised for this mechanical keyboard are completely missing.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 739.5403000991791
+  },
+  "qwen/qwen3.8-27b::11::1314fe855d0fd7cd": {
+    "test_index": 11,
+    "text": "Warning: Worst purchase of the year. Save your cash and look for a different air purifier.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 594.8429999407381
+  },
+  "qwen/qwen3.8-27b::12::cccbd93b40ee3bd2": {
+    "test_index": 12,
+    "text": "One of the best purchases I've made this year. The fitness tracker is simply superb.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 921.1991999763995
+  },
+  "qwen/qwen3.8-27b::13::082696f5630e59b9": {
+    "test_index": 13,
+    "text": "Worth every penny. The Bluetooth speaker feels solid and runs whisper-quiet.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 630.6777999270707
+  },
+  "qwen/qwen3.8-27b::14::591c5f8ab33837eb": {
+    "test_index": 14,
+    "text": "Fast delivery and the noise-cancelling earbuds arrived in mint condition. Would definitely buy again. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 89,
+    "output_tokens": 2,
+    "cost_usd": 1.8200000000000002e-05,
+    "latency_ms": 739.0263001434505
+  },
+  "qwen/qwen3.8-27b::15::22c058bb01d918c9": {
+    "test_index": 15,
+    "text": "Highly recommended! The build quality and finish of the tablet screen protector are top-tier.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 953.8228998426348
+  },
+  "qwen/qwen3.8-27b::16::324741d14c0c0d1a": {
+    "test_index": 16,
+    "text": "The quality of this tablet screen protector exceeded all my expectations. Absolutely brilliant!",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 963.6257998645306
+  },
+  "qwen/qwen3.8-27b::17::3ec522ae962034cb": {
+    "test_index": 17,
+    "text": "Super easy setup and seamless integration. This portable charger is genuinely phenomenal.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 860.5682000052184
+  },
+  "qwen/qwen3.8-27b::18::7b124614573c0985": {
+    "test_index": 18,
+    "text": "The quality of this soundbar exceeded all my expectations. Absolutely delightful!",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 671.8397999648005
+  },
+  "qwen/qwen3.8-27b::19::dfcfd5a69e6c2a18": {
+    "test_index": 19,
+    "text": "Terrible build quality. The tablet screen protector stopped working after just three days.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 560.9776000492275
+  },
+  "qwen/qwen3.8-27b::20::8d2b6645d1dabd75": {
+    "test_index": 20,
+    "text": "Overall: Delivered two days earlier than expected. Very phenomenal experience overall.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 561.6844999603927
+  },
+  "qwen/qwen3.8-27b::21::6b56e87e685b0636": {
+    "test_index": 21,
+    "text": "The quality of this soundbar exceeded all my expectations. Absolutely impeccable!",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 794.392199954018
+  },
+  "qwen/qwen3.8-27b::22::13c9b0f314f35ee1": {
+    "test_index": 22,
+    "text": "Five stars! The vacuum cleaner works exactly as described in the specifications.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 550.8144998457283
+  },
+  "qwen/qwen3.8-27b::23::07fedc122f71ed67": {
+    "test_index": 23,
+    "text": "Worst purchase of the year. Save your cash and look for a different mesh router.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 939.2989999614656
+  },
+  "qwen/qwen3.8-27b::24::fef61bd159ba827f": {
+    "test_index": 24,
+    "text": "Worst purchase of the year. Save your cash and look for a different smart thermostat. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 84,
+    "output_tokens": 2,
+    "cost_usd": 1.72e-05,
+    "latency_ms": 605.354700004682
+  },
+  "qwen/qwen3.8-27b::25::b218436d449c32cd": {
+    "test_index": 25,
+    "text": "The product does not match the photos or description online. Very pathetic.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 826.1832999996841
+  },
+  "qwen/qwen3.8-27b::26::be75ee60eacd62ae": {
+    "test_index": 26,
+    "text": "Outstanding customer support when my soundbar needed attention. Very stellar service.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 1479.7873999923468
+  },
+  "qwen/qwen3.8-27b::27::88d87cedf720d351": {
+    "test_index": 27,
+    "text": "One star. The laptop stand arrived with missing parts and broken packaging.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 491.15050002001226
+  },
+  "qwen/qwen3.8-27b::28::9079561e2a705b2b": {
+    "test_index": 28,
+    "text": "Customer service was unhelpful and refused to replace the defective espresso machine.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 590.388499898836
+  },
+  "qwen/qwen3.8-27b::29::5dc863e0afb68b96": {
+    "test_index": 29,
+    "text": "Do not waste your money on this noise-cancelling earbuds. Total scam and awful quality.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 82,
+    "output_tokens": 2,
+    "cost_usd": 1.6800000000000002e-05,
+    "latency_ms": 511.92089985124767
+  },
+  "qwen/qwen3.8-27b::30::e1f2e22183110e89": {
+    "test_index": 30,
+    "text": "Does everything it promises with speed and reliability. Very superb purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 74,
+    "output_tokens": 2,
+    "cost_usd": 1.52e-05,
+    "latency_ms": 2635.3728999383748
+  },
+  "qwen/qwen3.8-27b::31::a46546f3e9d3101d": {
+    "test_index": 31,
+    "text": "Overall: Tremendous improvement over my previous model. Loving this kitchen blender so far.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 2724.101400002837
+  },
+  "qwen/qwen3.8-27b::32::6bcd800ff80743e5": {
+    "test_index": 32,
+    "text": "Crisp design, intuitive controls, and robust build. Love this fitness tracker! Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 85,
+    "output_tokens": 2,
+    "cost_usd": 1.74e-05,
+    "latency_ms": 2494.209799915552
+  },
+  "qwen/qwen3.8-27b::33::16d01e24e43f4c2d": {
+    "test_index": 33,
+    "text": "Impressed with the prompt shipping and high quality of this security camera.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 2586.7932999972254
+  },
+  "qwen/qwen3.8-27b::34::fbf32d11e1a02056": {
+    "test_index": 34,
+    "text": "Shipping was delayed by two weeks and the tablet screen protector arrived damaged and dented.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 2509.705200092867
+  },
+  "qwen/qwen3.8-27b::35::12555e1f292f9f7c": {
+    "test_index": 35,
+    "text": "Loud annoying buzzing sound whenever the soundbar is powered on. Defective unit.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 2510.642600012943
+  },
+  "qwen/qwen3.8-27b::36::174735ba6df1bed8": {
+    "test_index": 36,
+    "text": "Tremendous improvement over my previous model. Loving this vacuum cleaner so far. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 85,
+    "output_tokens": 2,
+    "cost_usd": 1.74e-05,
+    "latency_ms": 2781.7456999327987
+  },
+  "qwen/qwen3.8-27b::37::191bab5b02ed1207": {
+    "test_index": 37,
+    "text": "Loud annoying buzzing sound whenever the Bluetooth speaker is powered on. Defective unit.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 2474.371900083497
+  },
+  "qwen/qwen3.8-27b::38::f32ee43625f35d73": {
+    "test_index": 38,
+    "text": "Zero durability. The buttons on the Bluetooth speaker jammed after light everyday use.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2733.2874999847263
+  },
+  "qwen/qwen3.8-27b::39::0aeed7406fa4c5fa": {
+    "test_index": 39,
+    "text": "Outstanding customer support when my external SSD needed attention. Very flawless service. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 83,
+    "output_tokens": 2,
+    "cost_usd": 1.7e-05,
+    "latency_ms": 2505.414400016889
+  },
+  "qwen/qwen3.8-27b::40::fc34967bde4e703d": {
+    "test_index": 40,
+    "text": "Does everything it promises with speed and reliability. Very brilliant purchase. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 2478.6791999358684
+  },
+  "qwen/qwen3.8-27b::41::ecf43768062524b0": {
+    "test_index": 41,
+    "text": "The air purifier frequently overheats and crashes. Completely unreliable. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 2547.943399986252
+  },
+  "qwen/qwen3.8-27b::42::58538f90bd4832e5": {
+    "test_index": 42,
+    "text": "Worst purchase of the year. Save your cash and look for a different smartwatch.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 2452.4536000099033
+  },
+  "qwen/qwen3.8-27b::43::dfecf293eb8bd23a": {
+    "test_index": 43,
+    "text": "Overall: Super easy setup and seamless integration. This portable charger is genuinely stellar.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2502.8876999858767
+  },
+  "qwen/qwen3.8-27b::44::1e5900c9dfbef568": {
+    "test_index": 44,
+    "text": "Shipping was delayed by two weeks and the electric kettle arrived damaged and dented.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2455.5589999072254
+  },
+  "qwen/qwen3.8-27b::45::142a419f041682f0": {
+    "test_index": 45,
+    "text": "False advertising. Key features promised for this electric kettle are completely missing.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 3142.1324000693858
+  },
+  "qwen/qwen3.8-27b::46::4fc6f8679192ce93": {
+    "test_index": 46,
+    "text": "Fantastic experience from ordering to delivery. The noise-cancelling earbuds is phenomenal and reliable.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 2451.950900023803
+  },
+  "qwen/qwen3.8-27b::47::b2f3be4717cad289": {
+    "test_index": 47,
+    "text": "Slow and unresponsive. The companion app for this external SSD crashes on startup.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2499.862400116399
+  },
+  "qwen/qwen3.8-27b::48::8d1380303a7ce889": {
+    "test_index": 48,
+    "text": "Overall: Delivered two days earlier than expected. Very terrific experience overall.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 2445.359099889174
+  },
+  "qwen/qwen3.8-27b::49::3a7114ba734a7ed0": {
+    "test_index": 49,
+    "text": "Warning: Extremely disappointed with this gaming monitor. It feels cheap and performs poorly.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2493.557699956
+  },
+  "qwen/qwen3.8-27b::50::3f72fdd28878004a": {
+    "test_index": 50,
+    "text": "False advertising. Key features promised for this security camera are completely missing.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 2510.885800002143
+  },
+  "qwen/qwen3.8-27b::51::be4cbb10ff25f19c": {
+    "test_index": 51,
+    "text": "Customer support ignored my emails for over a week. Absolutely disappointing service.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 2472.2484000958502
+  },
+  "qwen/qwen3.8-27b::52::126ac76aba761a04": {
+    "test_index": 52,
+    "text": "Extremely disappointed with this ergonomic office chair. It feels cheap and performs poorly.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2520.8333001937717
+  },
+  "qwen/qwen3.8-27b::53::f9e2d3a0fc76b122": {
+    "test_index": 53,
+    "text": "Fantastic experience from ordering to delivery. The tablet screen protector is stellar and reliable. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 84,
+    "output_tokens": 2,
+    "cost_usd": 1.72e-05,
+    "latency_ms": 2861.960999900475
+  },
+  "qwen/qwen3.8-27b::54::f1a0adc61a723636": {
+    "test_index": 54,
+    "text": "Outstanding customer support when my wireless headphones needed attention. Very stellar service. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 83,
+    "output_tokens": 2,
+    "cost_usd": 1.7e-05,
+    "latency_ms": 2898.0565001256764
+  },
+  "qwen/qwen3.8-27b::55::a7f64ebea0e8296a": {
+    "test_index": 55,
+    "text": "Worth every penny. The security camera feels solid and runs whisper-quiet.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2999.53530007042
+  },
+  "qwen/qwen3.8-27b::56::87b349697a113090": {
+    "test_index": 56,
+    "text": "Loud annoying buzzing sound whenever the smartwatch is powered on. Defective unit.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 3008.3711999468505
+  },
+  "qwen/qwen3.8-27b::57::fd88ab9db4e42a23": {
+    "test_index": 57,
+    "text": "Warning: Battery drains in less than an hour. This kitchen blender is practically useless.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 2745.2393998391926
+  },
+  "qwen/qwen3.8-27b::58::59716a0a0df2943a": {
+    "test_index": 58,
+    "text": "The battery life and responsiveness of this mesh router blew me away. Truly terrific. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 84,
+    "output_tokens": 2,
+    "cost_usd": 1.72e-05,
+    "latency_ms": 2801.562399836257
+  },
+  "qwen/qwen3.8-27b::59::6b49b78f41e56af7": {
+    "test_index": 59,
+    "text": "The vacuum cleaner frequently overheats and crashes. Completely unreliable. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 2810.1490000262856
+  },
+  "qwen/qwen3.8-27b::60::5a30d429745d76a1": {
+    "test_index": 60,
+    "text": "Impressed with the prompt shipping and high quality of this smartwatch.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 2660.6649002060294
+  },
+  "qwen/qwen3.8-27b::61::e26d101ba0233b38": {
+    "test_index": 61,
+    "text": "Regret buying this laptop stand. You get what you pay for, and this is pure junk.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 2737.658399855718
+  },
+  "qwen/qwen3.8-27b::62::c299c3dd8ea8fab8": {
+    "test_index": 62,
+    "text": "Overall: Fast delivery and the tablet screen protector arrived in mint condition. Would definitely buy again.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 80,
+    "output_tokens": 2,
+    "cost_usd": 1.6400000000000002e-05,
+    "latency_ms": 3704.694699961692
+  },
+  "qwen/qwen3.8-27b::63::38ad80faa66e6dd6": {
+    "test_index": 63,
+    "text": "Battery drains in less than an hour. This mesh router is practically useless.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 2756.012700032443
+  },
+  "qwen/qwen3.8-27b::64::e1f2e22183110e89": {
+    "test_index": 64,
+    "text": "Does everything it promises with speed and reliability. Very superb purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 74,
+    "output_tokens": 2,
+    "cost_usd": 1.52e-05,
+    "latency_ms": 3446.440000087023
+  },
+  "qwen/qwen3.8-27b::65::64d3615b484e3cb3": {
+    "test_index": 65,
+    "text": "Slow and unresponsive. The companion app for this mesh router crashes on startup.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 4146.589400013909
+  },
+  "qwen/qwen3.8-27b::66::892ab6a71ffa5d0e": {
+    "test_index": 66,
+    "text": "One of the best purchases I've made this year. The portable charger is simply superb.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 2395.342300180346
+  },
+  "qwen/qwen3.8-27b::67::ed4c8b81bd2b6aee": {
+    "test_index": 67,
+    "text": "Fast delivery and the LED desk lamp arrived in mint condition. Would definitely buy again.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 838.0815000273287
+  },
+  "qwen/qwen3.8-27b::68::9079561e2a705b2b": {
+    "test_index": 68,
+    "text": "Customer service was unhelpful and refused to replace the defective espresso machine.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 2692.6996000111103
+  },
+  "qwen/qwen3.8-27b::69::01674592e8162ae6": {
+    "test_index": 69,
+    "text": "Worth every penny. The electric kettle feels solid and runs whisper-quiet.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 3633.062200155109
+  },
+  "qwen/qwen3.8-27b::70::41646ffac743b4b4": {
+    "test_index": 70,
+    "text": "Worth every penny. The mechanical keyboard feels solid and runs whisper-quiet.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2626.9380999729037
+  },
+  "qwen/qwen3.8-27b::71::c3c6bb52f9330d3e": {
+    "test_index": 71,
+    "text": "One star. The electric kettle arrived with missing parts and broken packaging.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 2822.0606001559645
+  },
+  "qwen/qwen3.8-27b::72::55f7a415b80eb859": {
+    "test_index": 72,
+    "text": "Worst purchase of the year. Save your cash and look for a different graphics tablet. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 84,
+    "output_tokens": 2,
+    "cost_usd": 1.72e-05,
+    "latency_ms": 4551.611899863929
+  },
+  "qwen/qwen3.8-27b::73::50a655dbce0991f6": {
+    "test_index": 73,
+    "text": "The quality of this streaming mic exceeded all my expectations. Absolutely brilliant! Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 82,
+    "output_tokens": 2,
+    "cost_usd": 1.6800000000000002e-05,
+    "latency_ms": 1637.8314001485705
+  },
+  "qwen/qwen3.8-27b::74::66c70c65b566cba3": {
+    "test_index": 74,
+    "text": "Shipping was delayed by two weeks and the kitchen blender arrived damaged and dented.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 3618.09610016644
+  },
+  "qwen/qwen3.8-27b::75::0cbd84a532c0e9a4": {
+    "test_index": 75,
+    "text": "One of the best purchases I've made this year. The air purifier is simply superb.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 80,
+    "output_tokens": 2,
+    "cost_usd": 1.6400000000000002e-05,
+    "latency_ms": 3402.288099983707
+  },
+  "qwen/qwen3.8-27b::76::e6ae36956e84c61a": {
+    "test_index": 76,
+    "text": "Fantastic experience from ordering to delivery. The graphics tablet is phenomenal and reliable. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 83,
+    "output_tokens": 2,
+    "cost_usd": 1.7e-05,
+    "latency_ms": 2925.59070000425
+  },
+  "qwen/qwen3.8-27b::77::8ff0c2f711df9d77": {
+    "test_index": 77,
+    "text": "Does everything it promises with speed and reliability. Very phenomenal purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 74,
+    "output_tokens": 2,
+    "cost_usd": 1.52e-05,
+    "latency_ms": 6193.443400086835
+  },
+  "qwen/qwen3.8-27b::78::af4ebeb9c9bd8329": {
+    "test_index": 78,
+    "text": "Crisp design, intuitive controls, and robust build. Love this electric kettle!",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 2960.798199987039
+  },
+  "qwen/qwen3.8-27b::79::bb72022b27bc8c5f": {
+    "test_index": 79,
+    "text": "Fantastic experience from ordering to delivery. The security camera is delightful and reliable.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 1810.7203000690788
+  },
+  "qwen/qwen3.8-27b::80::82248ada015f5b4d": {
+    "test_index": 80,
+    "text": "One star. The tablet screen protector arrived with missing parts and broken packaging. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 81,
+    "output_tokens": 2,
+    "cost_usd": 1.66e-05,
+    "latency_ms": 5202.927200123668
+  },
+  "qwen/qwen3.8-27b::81::24e777fd20051a81": {
+    "test_index": 81,
+    "text": "Overall: Delivered two days earlier than expected. Very stellar experience overall.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 1165.4393000062555
+  },
+  "qwen/qwen3.8-27b::82::e6e58ebcf3f3e156": {
+    "test_index": 82,
+    "text": "Zero durability. The buttons on the portable charger jammed after light everyday use.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 830.6875000707805
+  },
+  "qwen/qwen3.8-27b::83::8750374c36529f0a": {
+    "test_index": 83,
+    "text": "Setup was a complete nightmare and the instructions make no sense at all.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 3753.5894999746233
+  },
+  "qwen/qwen3.8-27b::84::17faed64a5600576": {
+    "test_index": 84,
+    "text": "Regret buying this Bluetooth speaker. You get what you pay for, and this is pure junk. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 2843.7367000151426
+  },
+  "qwen/qwen3.8-27b::85::b24c78230c74fcdd": {
+    "test_index": 85,
+    "text": "Crisp design, intuitive controls, and robust build. Love this tablet screen protector!",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 4165.133300004527
+  },
+  "qwen/qwen3.8-27b::86::28fd96becfc96fd1": {
+    "test_index": 86,
+    "text": "Warning: Do not waste your money on this espresso machine. Total scam and awful quality.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 79,
+    "output_tokens": 2,
+    "cost_usd": 1.62e-05,
+    "latency_ms": 1651.6549000516534
+  },
+  "qwen/qwen3.8-27b::87::694d5e4b19c5a823": {
+    "test_index": 87,
+    "text": "Worst purchase of the year. Save your cash and look for a different ergonomic office chair. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 85,
+    "output_tokens": 2,
+    "cost_usd": 1.74e-05,
+    "latency_ms": 3152.65589999035
+  },
+  "qwen/qwen3.8-27b::88::a1e3d90480a10471": {
+    "test_index": 88,
+    "text": "Customer support ignored my emails for over a week. Absolutely unacceptable service.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 4777.193299960345
+  },
+  "qwen/qwen3.8-27b::89::a1d8a83e03c19512": {
+    "test_index": 89,
+    "text": "One of the best purchases I've made this year. The air purifier is simply superb. Really glad I chose this brand.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 87,
+    "output_tokens": 2,
+    "cost_usd": 1.7800000000000002e-05,
+    "latency_ms": 1176.8070000689477
+  },
+  "qwen/qwen3.8-27b::90::958898b0857c53af": {
+    "test_index": 90,
+    "text": "Broke on the second day of use. Flimsy materials and poor craftsmanship.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 3916.3341999519616
+  },
+  "qwen/qwen3.8-27b::91::3dc9b8ed697a8bd9": {
+    "test_index": 91,
+    "text": "Impressed with the prompt shipping and high quality of this soundbar.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 2183.141899993643
+  },
+  "qwen/qwen3.8-27b::92::cc5364c06c0f41c5": {
+    "test_index": 92,
+    "text": "Customer service was unhelpful and refused to replace the defective noise-cancelling earbuds. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 1685.408700024709
+  },
+  "qwen/qwen3.8-27b::93::358eadb210c594d1": {
+    "test_index": 93,
+    "text": "Fast delivery and the gaming monitor arrived in mint condition. Would definitely buy again.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 77,
+    "output_tokens": 2,
+    "cost_usd": 1.58e-05,
+    "latency_ms": 2437.4549000058323
+  },
+  "qwen/qwen3.8-27b::94::79666a8583fe27ec": {
+    "test_index": 94,
+    "text": "Highly recommended! The build quality and finish of the security camera are top-tier.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 78,
+    "output_tokens": 2,
+    "cost_usd": 1.6e-05,
+    "latency_ms": 4308.435200015083
+  },
+  "qwen/qwen3.8-27b::95::6a21cc7e0ec647d8": {
+    "test_index": 95,
+    "text": "Fantastic experience from ordering to delivery. The electric kettle is impressive and reliable.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 1323.291900102049
+  },
+  "qwen/qwen3.8-27b::96::cfc22389bd13efb2": {
+    "test_index": 96,
+    "text": "Horrible experience. The return process for this wireless headphones was a frustrating ordeal. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 82,
+    "output_tokens": 2,
+    "cost_usd": 1.6800000000000002e-05,
+    "latency_ms": 3592.2435000538826
+  },
+  "qwen/qwen3.8-27b::97::ba5c8217487df38d": {
+    "test_index": 97,
+    "text": "Regret buying this external SSD. You get what you pay for, and this is pure junk. Avoid at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 4130.322800017893
+  },
+  "qwen/qwen3.8-27b::98::3ce1ae85f508d9d3": {
+    "test_index": 98,
+    "text": "One star. The external SSD arrived with missing parts and broken packaging.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 75,
+    "output_tokens": 2,
+    "cost_usd": 1.54e-05,
+    "latency_ms": 3143.250600202009
+  },
+  "qwen/qwen3.8-27b::99::28e5dad9862aca86": {
+    "test_index": 99,
+    "text": "Battery drains in less than an hour. This kitchen blender is practically useless.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 76,
+    "output_tokens": 2,
+    "cost_usd": 1.5600000000000003e-05,
+    "latency_ms": 2083.245199872181
+  },
+  "gemini-3.8-flash::0::fff9aad5dad6945a": {
+    "test_index": 0,
+    "text": "Worth every penny. The air purifier feels solid and runs whisper-quiet.",
+    "raw_output": "unknown",
+    "prediction": "unknown",
+    "input_tokens": 47,
+    "output_tokens": 2,
+    "cost_usd": 5.500000000000001e-06,
+    "latency_ms": 0.0
+  },
+  "qwen/qwen3.8-27b::0::74c03ae7963038c4": {
+    "test_index": 0,
+    "text": "Soundstage is expansive with deep, tight bass and sparkling highs. Outstanding craftsmanship and design on this wireless noise-canceling headphones.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 618.3820000005653
+  },
+  "qwen/qwen3.8-27b::1::3e6313b5a5611042": {
+    "test_index": 1,
+    "text": "Bluetooth range is pitiful; audio cuts out if you step more than ten feet away. One star is overly generous for this unreliable and defective portable Bluetooth speaker.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 363.51229999854695
+  },
+  "qwen/qwen3.8-27b::2::de2d9635a82ad543": {
+    "test_index": 2,
+    "text": "Buyer beware: this mechanical gaming keyboard has serious design and quality control flaws. Companion software crashes frequently and fails to save custom lighting profiles.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 89,
+    "output_tokens": 2,
+    "cost_usd": 1.8200000000000002e-05,
+    "latency_ms": 381.8847999937134
+  },
+  "qwen/qwen3.8-27b::3::b179d8fe4f650524": {
+    "test_index": 3,
+    "text": "A total game changer for my routine; this portable Bluetooth speaker is worth every single penny. IP67 waterproof rating handled splashing poolside and beach sand without an issue. Exceptional quality that easily justifies the premium price tag.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 108,
+    "output_tokens": 2,
+    "cost_usd": 2.2000000000000003e-05,
+    "latency_ms": 11994.09839999862
+  },
+  "qwen/qwen3.8-27b::4::d0f6dfb503912ee0": {
+    "test_index": 4,
+    "text": "Five stars without hesitation! This digital air fryer delivers flawless performance. Pre-programmed presets for chicken, fish, and roasting take out all the guesswork.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 2034.201700007543
+  },
+  "qwen/qwen3.8-27b::5::8806b6392b27422a": {
+    "test_index": 5,
+    "text": "Intuitive pressure gauge helps dial in grind size and tamp consistency easily. Could not be happier with this espresso coffee maker purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 1076.5137999987928
+  },
+  "qwen/qwen3.8-27b::6::609c5d7f27afb005": {
+    "test_index": 6,
+    "text": "Outstanding craftsmanship and design on this air purifier with HEPA filter. Compact cylindrical form factor tucks inconspicuously into the corner of the bedroom.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 754.1264000028605
+  },
+  "qwen/qwen3.8-27b::7::cf4521e0a7e3bd4d": {
+    "test_index": 7,
+    "text": "The positive reviews for this air purifier with HEPA filter must be paid because my experience was awful. Air quality sensor is completely blind and stays on 'good' even in thick cooking smoke. Customer support ignored my emails and refused to honor the manufacturer warranty.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 113,
+    "output_tokens": 2,
+    "cost_usd": 2.3e-05,
+    "latency_ms": 406.8645999941509
+  },
+  "qwen/qwen3.8-27b::8::6f38c8b4efca4fed": {
+    "test_index": 8,
+    "text": "Massive letdown; this air purifier with HEPA filter stopped functioning after barely any use. Air quality sensor is completely blind and stays on 'good' even in thick cooking smoke. Save yourself the headache and purchase from a reputable brand instead.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 111,
+    "output_tokens": 2,
+    "cost_usd": 2.26e-05,
+    "latency_ms": 588.4282000042731
+  },
+  "qwen/qwen3.8-27b::9::a131d25ba306c9bc": {
+    "test_index": 9,
+    "text": "Extremely disappointed with this ultrawide productivity monitor; save your money and look elsewhere. The built-in speakers sound worse than a cheap smartphone on speakerphone.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 373.4487000037916
+  },
+  "qwen/qwen3.8-27b::10::818442bc7f457b8f": {
+    "test_index": 10,
+    "text": "The rubber gasket shredded, allowing liquids to leak into the motor base. Worst purchase I've made in years; this high-speed countertop blender failed almost immediately.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 390.6633000005968
+  },
+  "qwen/qwen3.8-27b::11::2f72a742bdb13bbc": {
+    "test_index": 11,
+    "text": "HDR mode is completely washed out and looks significantly worse than SDR. Massive letdown; this ultrawide productivity monitor stopped functioning after barely any use.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 92,
+    "output_tokens": 2,
+    "cost_usd": 1.88e-05,
+    "latency_ms": 463.0864000064321
+  },
+  "qwen/qwen3.8-27b::12::79e0dde3e6aaf568": {
+    "test_index": 12,
+    "text": "Could not be happier with this portable Bluetooth speaker purchase. Party-link mode paired seamlessly with my second speaker for true stereo sound. Exceptional quality that easily justifies the premium price tag.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 98,
+    "output_tokens": 2,
+    "cost_usd": 2e-05,
+    "latency_ms": 393.0162000033306
+  },
+  "qwen/qwen3.8-27b::13::e32a435d99eee763": {
+    "test_index": 13,
+    "text": "A total game changer for my routine; this waterproof hiking boots is worth every single penny. Zero break-in period required; comfortable and blister-free straight from the box. Reliable, beautifully made, and worth every dollar.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 104,
+    "output_tokens": 2,
+    "cost_usd": 2.12e-05,
+    "latency_ms": 3817.499400000088
+  },
+  "qwen/qwen3.8-27b::14::712f23bcdf6fb0e5": {
+    "test_index": 14,
+    "text": "Five stars without hesitation! This ultrawide productivity monitor delivers flawless performance. IPS panel delivers vibrant color reproduction and razor-sharp text clarity. Customer service was also responsive and helpful when I had an initial question.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 103,
+    "output_tokens": 2,
+    "cost_usd": 2.1000000000000002e-05,
+    "latency_ms": 1301.2716000084765
+  },
+  "qwen/qwen3.8-27b::15::a92af3eff8a9e0c6": {
+    "test_index": 15,
+    "text": "Pre-programmed presets for chicken, fish, and roasting take out all the guesswork. I've been using this digital air fryer every single day and it has exceeded all my expectations.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 100,
+    "output_tokens": 2,
+    "cost_usd": 2.04e-05,
+    "latency_ms": 412.19139999884646
+  },
+  "qwen/qwen3.8-27b::16::2c42e189ad5dee91": {
+    "test_index": 16,
+    "text": "A total game changer for my routine; this ultrawide productivity monitor is worth every single penny. The massive screen real estate completely replaced my messy dual-monitor setup. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 674.7748000052525
+  },
+  "qwen/qwen3.8-27b::17::4412ee313112006f": {
+    "test_index": 17,
+    "text": "Five stars without hesitation! This cushioned running shoes delivers flawless performance. Durable rubber outsole shows minimal wear after over 200 miles on asphalt. Customer service was also responsive and helpful when I had an initial question.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 107,
+    "output_tokens": 2,
+    "cost_usd": 2.18e-05,
+    "latency_ms": 1112.8656999935629
+  },
+  "qwen/qwen3.8-27b::18::505cd3cb4fe5d864": {
+    "test_index": 18,
+    "text": "Everything about this high-speed countertop blender feels premium, durable, and well-engineered. Variable speed dial and pulse function give total control over salsa texture. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 104,
+    "output_tokens": 2,
+    "cost_usd": 2.12e-05,
+    "latency_ms": 384.283499995945
+  },
+  "qwen/qwen3.8-27b::19::904c98e6852b942c": {
+    "test_index": 19,
+    "text": "Do not waste your hard-earned money on this mechanical gaming keyboard. Keycap legends started wearing off after less than a month of typing.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 89,
+    "output_tokens": 2,
+    "cost_usd": 1.8200000000000002e-05,
+    "latency_ms": 400.7101000024704
+  },
+  "qwen/qwen3.8-27b::20::7ca6cdb3f657f943": {
+    "test_index": 20,
+    "text": "Outstanding craftsmanship and design on this ergonomic vertical mouse. Rechargeable battery lasts nearly three months between quick USB-C charges.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 391.0207000008086
+  },
+  "qwen/qwen3.8-27b::21::eb96776ad9193b0e": {
+    "test_index": 21,
+    "text": "Breathable engineered mesh upper keeps feet cool and dry on ten-mile summer runs. Five stars without hesitation! This cushioned running shoes delivers flawless performance.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 92,
+    "output_tokens": 2,
+    "cost_usd": 1.88e-05,
+    "latency_ms": 960.9014000016032
+  },
+  "qwen/qwen3.8-27b::22::74d9f1c61f5511bb": {
+    "test_index": 22,
+    "text": "Everything about this cushioned running shoes feels premium, durable, and well-engineered. Rocker sole geometry promotes a smooth, effortless toe-off transition. Reliable, beautifully made, and worth every dollar.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 101,
+    "output_tokens": 2,
+    "cost_usd": 2.0600000000000003e-05,
+    "latency_ms": 10834.230600012233
+  },
+  "qwen/qwen3.8-27b::23::f209dfdaa7b4fb2c": {
+    "test_index": 23,
+    "text": "One star is overly generous for this unreliable and defective electric gooseneck kettle. The base display started glitching and cycling random error codes after a month. I regret buying this and will never purchase from this brand again.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 1303.4363000042504
+  },
+  "qwen/qwen3.8-27b::24::a1ff13f5ca8a6606": {
+    "test_index": 24,
+    "text": "Massive letdown; this high-speed countertop blender stopped functioning after barely any use. The motor overheated and started smoking when blending standard frozen fruit. Avoid this company and product at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 101,
+    "output_tokens": 2,
+    "cost_usd": 2.0600000000000003e-05,
+    "latency_ms": 2411.303799992311
+  },
+  "qwen/qwen3.8-27b::25::a960b72e376b1c47": {
+    "test_index": 25,
+    "text": "Extremely disappointed with this ultrawide productivity monitor; save your money and look elsewhere. The built-in speakers sound worse than a cheap smartphone on speakerphone. Avoid this company and product at all costs.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 102,
+    "output_tokens": 2,
+    "cost_usd": 2.08e-05,
+    "latency_ms": 2309.4780999963405
+  },
+  "qwen/qwen3.8-27b::26::e6287d2a3481bfab": {
+    "test_index": 26,
+    "text": "Compact footprint fits neatly on my countertop without crowding other appliances. Could not be happier with this espresso coffee maker purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 86,
+    "output_tokens": 2,
+    "cost_usd": 1.76e-05,
+    "latency_ms": 2413.7522999953944
+  },
+  "qwen/qwen3.8-27b::27::2feb64248486a0e3": {
+    "test_index": 27,
+    "text": "Companion software crashes frequently and fails to save custom lighting profiles. Do not waste your hard-earned money on this mechanical gaming keyboard.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 88,
+    "output_tokens": 2,
+    "cost_usd": 1.8e-05,
+    "latency_ms": 558.4021999966353
+  },
+  "qwen/qwen3.8-27b::28::6ae3599ced9af1ac": {
+    "test_index": 28,
+    "text": "Internal temperature sensor is wildly inaccurate, overheating coffee water to a boil. Buyer beware: this electric gooseneck kettle has serious design and quality control flaws.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 678.7064999953145
+  },
+  "qwen/qwen3.8-27b::29::711adb92e0944ce9": {
+    "test_index": 29,
+    "text": "Worst purchase I've made in years; this ergonomic vertical mouse failed almost immediately. The optical sensor stutters and teleports across the screen during precise editing. Customer support ignored my emails and refused to honor the manufacturer warranty.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 2338.7252999964403
+  },
+  "qwen/qwen3.8-27b::30::0d5ef616e317e70a": {
+    "test_index": 30,
+    "text": "Outstanding craftsmanship and design on this ultrawide productivity monitor. The massive screen real estate completely replaced my messy dual-monitor setup. Customer service was also responsive and helpful when I had an initial question.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 101,
+    "output_tokens": 2,
+    "cost_usd": 2.0600000000000003e-05,
+    "latency_ms": 4471.602799996617
+  },
+  "qwen/qwen3.8-27b::31::8b2b8a23163aa029": {
+    "test_index": 31,
+    "text": "Five stars without hesitation! This ergonomic vertical mouse delivers flawless performance. The handshake grip posture completely relieved my carpal tunnel and forearm strain.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 88,
+    "output_tokens": 2,
+    "cost_usd": 1.8e-05,
+    "latency_ms": 1423.8380000024335
+  },
+  "qwen/qwen3.8-27b::32::e42050166da8564f": {
+    "test_index": 32,
+    "text": "Bright LED headlights illuminate hidden dust and crumbs under low furniture. I've been using this cordless stick vacuum every single day and it has exceeded all my expectations.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 2521.784199998365
+  },
+  "qwen/qwen3.8-27b::33::a849da2b1252874d": {
+    "test_index": 33,
+    "text": "Five stars without hesitation! This electric gooseneck kettle delivers flawless performance. Brings one liter of cold tap water to a rolling boil in under four minutes. Will definitely purchase more gear from this brand in the future.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 1246.2118999974336
+  },
+  "qwen/qwen3.8-27b::34::f1eb2703a791f476": {
+    "test_index": 34,
+    "text": "The positive reviews for this insulated stainless steel water bottle must be paid because my experience was awful. The flip lid mechanism snapped off on day three when drinking at the gym. Save yourself the headache and purchase from a reputable brand instead.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 107,
+    "output_tokens": 2,
+    "cost_usd": 2.18e-05,
+    "latency_ms": 1450.035999994725
+  },
+  "qwen/qwen3.8-27b::35::61f6f194e43dca8e": {
+    "test_index": 35,
+    "text": "Do not waste your hard-earned money on this wireless noise-canceling headphones. The plastic headband cracked near the hinge after three weeks of gentle use. I am returning it immediately and demanding a full refund.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 103,
+    "output_tokens": 2,
+    "cost_usd": 2.1000000000000002e-05,
+    "latency_ms": 472.46579999045935
+  },
+  "qwen/qwen3.8-27b::36::058d962ae28212ba": {
+    "test_index": 36,
+    "text": "A total game changer for my routine; this mechanical gaming keyboard is worth every single penny. PBT doubleshot keycaps resist oil and shine even after months of daily coding.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 96,
+    "output_tokens": 2,
+    "cost_usd": 1.9600000000000002e-05,
+    "latency_ms": 653.0960000091
+  },
+  "qwen/qwen3.8-27b::37::f1abcd95e474eada": {
+    "test_index": 37,
+    "text": "Extremely disappointed with this electric gooseneck kettle; save your money and look elsewhere. Internal temperature sensor is wildly inaccurate, overheating coffee water to a boil.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 95,
+    "output_tokens": 2,
+    "cost_usd": 1.94e-05,
+    "latency_ms": 508.50149999314453
+  },
+  "qwen/qwen3.8-27b::38::1b277ac9b2a70b7b": {
+    "test_index": 38,
+    "text": "Do not waste your hard-earned money on this smart video doorbell. Key features like recording and person detection are held hostage behind a paid subscription. Save yourself the headache and purchase from a reputable brand instead.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 103,
+    "output_tokens": 2,
+    "cost_usd": 2.1000000000000002e-05,
+    "latency_ms": 2330.1430999999866
+  },
+  "qwen/qwen3.8-27b::39::d32034a8fec3cbfb": {
+    "test_index": 39,
+    "text": "So glad I invested in this high-speed countertop blender instead of cheaper alternatives. Sturdy glass pitcher feels durable and does not absorb pungent food odors.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 793.7070000043605
+  },
+  "qwen/qwen3.8-27b::40::bd4b8b5c39a8371b": {
+    "test_index": 40,
+    "text": "Outstanding craftsmanship and design on this cordless stick vacuum. Bright LED headlights illuminate hidden dust and crumbs under low furniture. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 97,
+    "output_tokens": 2,
+    "cost_usd": 1.98e-05,
+    "latency_ms": 628.5536000068532
+  },
+  "qwen/qwen3.8-27b::41::cc0c5c84dcce91d1": {
+    "test_index": 41,
+    "text": "One star is overly generous for this unreliable and defective ultrawide productivity monitor. Screen randomly flickers black for two seconds every hour over DisplayPort.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 91,
+    "output_tokens": 2,
+    "cost_usd": 1.86e-05,
+    "latency_ms": 661.1833999922965
+  },
+  "qwen/qwen3.8-27b::42::78140d99d44c9706": {
+    "test_index": 42,
+    "text": "Water reservoir cracked and leaked all over my wooden cabinet overnight. One star is overly generous for this unreliable and defective espresso coffee maker.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 87,
+    "output_tokens": 2,
+    "cost_usd": 1.7800000000000002e-05,
+    "latency_ms": 1093.943500003661
+  },
+  "qwen/qwen3.8-27b::43::4f28d312e87f211d": {
+    "test_index": 43,
+    "text": "Extracts rich, balanced espresso with a thick golden layer of crema every morning. Could not be happier with this espresso coffee maker purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 88,
+    "output_tokens": 2,
+    "cost_usd": 1.8e-05,
+    "latency_ms": 1524.6975000045495
+  },
+  "qwen/qwen3.8-27b::44::83403d06401d495d": {
+    "test_index": 44,
+    "text": "Severe notification delay means delivery drivers have left before the video stream loads. Frustrating, flimsy, and overpriced smart video doorbell.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 677.0395000057761
+  },
+  "qwen/qwen3.8-27b::45::9558ddfb51fb7c46": {
+    "test_index": 45,
+    "text": "The charging wall dock stopped recognizing the vacuum after only one month. Worst purchase I've made in years; this cordless stick vacuum failed almost immediately.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 91,
+    "output_tokens": 2,
+    "cost_usd": 1.86e-05,
+    "latency_ms": 865.3708000056213
+  },
+  "qwen/qwen3.8-27b::46::4745db6c8b9028ce": {
+    "test_index": 46,
+    "text": "I've been using this electric gooseneck kettle every single day and it has exceeded all my expectations. Brings one liter of cold tap water to a rolling boil in under four minutes.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 100,
+    "output_tokens": 2,
+    "cost_usd": 2.04e-05,
+    "latency_ms": 1104.1220000042813
+  },
+  "qwen/qwen3.8-27b::47::c0ac5042aa411a3b": {
+    "test_index": 47,
+    "text": "The positive reviews for this cordless stick vacuum must be paid because my experience was awful. Brush roller clogs and stops spinning after picking up minimal pet hair. I am returning it immediately and demanding a full refund.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 104,
+    "output_tokens": 2,
+    "cost_usd": 2.12e-05,
+    "latency_ms": 500.30339999648277
+  },
+  "qwen/qwen3.8-27b::48::2ebc43d448a1ca0a": {
+    "test_index": 48,
+    "text": "So glad I invested in this high-speed countertop blender instead of cheaper alternatives. Pulverizes frozen berries, ice cubes, and tough kale into silky smoothies in seconds. It has earned a permanent spot in my everyday setup.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 107,
+    "output_tokens": 2,
+    "cost_usd": 2.18e-05,
+    "latency_ms": 2752.8004000050714
+  },
+  "qwen/qwen3.8-27b::49::ab036e6a092f613c": {
+    "test_index": 49,
+    "text": "Frustrating, flimsy, and overpriced cordless stick vacuum. The plastic latch broke off the dustbin, causing it to fall open while vacuuming.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 97,
+    "output_tokens": 2,
+    "cost_usd": 1.98e-05,
+    "latency_ms": 3431.487499998184
+  },
+  "qwen/qwen3.8-27b::50::2a19378e32daae17": {
+    "test_index": 50,
+    "text": "Do not waste your hard-earned money on this portable Bluetooth speaker. Bass is virtually non-existent, producing a hollow, tinny sound like a cheap clock radio. Save yourself the headache and purchase from a reputable brand instead.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 3218.0392000009306
+  },
+  "qwen/qwen3.8-27b::51::31758551fdbbfe98": {
+    "test_index": 51,
+    "text": "Massive letdown; this ultrawide productivity monitor stopped functioning after barely any use. The built-in speakers sound worse than a cheap smartphone on speakerphone. Customer support ignored my emails and refused to honor the manufacturer warranty.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 2497.075400009635
+  },
+  "qwen/qwen3.8-27b::52::ed434e1d445d2343": {
+    "test_index": 52,
+    "text": "Water reservoir cracked and leaked all over my wooden cabinet overnight. Do not waste your hard-earned money on this espresso coffee maker.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 87,
+    "output_tokens": 2,
+    "cost_usd": 1.7800000000000002e-05,
+    "latency_ms": 2924.88439999579
+  },
+  "qwen/qwen3.8-27b::53::68ef4ef44041ec62": {
+    "test_index": 53,
+    "text": "So glad I invested in this cordless stick vacuum instead of cheaper alternatives. Featherlight design makes cleaning stairs, baseboards, and ceilings effortless.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 90,
+    "output_tokens": 2,
+    "cost_usd": 1.84e-05,
+    "latency_ms": 2565.7064999977592
+  },
+  "qwen/qwen3.8-27b::54::bc2292d3ca9d5425": {
+    "test_index": 54,
+    "text": "Outstanding craftsmanship and design on this espresso coffee maker. Powerful steam wand froths silky microfoam perfect for latte art. Will definitely purchase more gear from this brand in the future.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 98,
+    "output_tokens": 2,
+    "cost_usd": 2e-05,
+    "latency_ms": 2628.4726000012597
+  },
+  "qwen/qwen3.8-27b::55::4da3373f57787005": {
+    "test_index": 55,
+    "text": "So glad I invested in this high-speed countertop blender instead of cheaper alternatives. Self-cleaning cycle cleans the blades thoroughly with warm water and a drop of soap.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 2784.9586000083946
+  },
+  "qwen/qwen3.8-27b::56::b651faa932f8908b": {
+    "test_index": 56,
+    "text": "Touch controls stopped responding after three weeks, leaving the unit stuck on high. Worst purchase I've made in years; this air purifier with HEPA filter failed almost immediately.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 96,
+    "output_tokens": 2,
+    "cost_usd": 1.9600000000000002e-05,
+    "latency_ms": 4434.880000000703
+  },
+  "qwen/qwen3.8-27b::57::a403eef0dc3400f8": {
+    "test_index": 57,
+    "text": "Do not waste your hard-earned money on this digital air fryer. The touch control panel is unresponsive and requires multiple firm presses. Customer support ignored my emails and refused to honor the manufacturer warranty.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 102,
+    "output_tokens": 2,
+    "cost_usd": 2.08e-05,
+    "latency_ms": 2520.597299997462
+  },
+  "qwen/qwen3.8-27b::58::ac7214198b702e58": {
+    "test_index": 58,
+    "text": "Five stars without hesitation! This insulated stainless steel water bottle delivers flawless performance. Pure 18/8 stainless steel imparts zero metallic aftertaste to pure water. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 107,
+    "output_tokens": 2,
+    "cost_usd": 2.18e-05,
+    "latency_ms": 3687.085300000035
+  },
+  "qwen/qwen3.8-27b::59::ccf6470ec2a9e59c": {
+    "test_index": 59,
+    "text": "Internal temperature sensor is wildly inaccurate, overheating coffee water to a boil. Frustrating, flimsy, and overpriced electric gooseneck kettle.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 95,
+    "output_tokens": 2,
+    "cost_usd": 1.94e-05,
+    "latency_ms": 3309.456200004206
+  },
+  "qwen/qwen3.8-27b::60::29589387935007f5": {
+    "test_index": 60,
+    "text": "One-touch dustbin release empties debris cleanly directly into the trash. A total game changer for my routine; this cordless stick vacuum is worth every single penny.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 6002.815499989083
+  },
+  "qwen/qwen3.8-27b::61::40ddc547abca4382": {
+    "test_index": 61,
+    "text": "Tread wore smooth with chunks of rubber tearing away after thirty trail miles. Frustrating, flimsy, and overpriced waterproof hiking boots.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 92,
+    "output_tokens": 2,
+    "cost_usd": 1.88e-05,
+    "latency_ms": 684.900700012804
+  },
+  "qwen/qwen3.8-27b::62::8b4385f12f1025d4": {
+    "test_index": 62,
+    "text": "A total game changer for my routine; this portable Bluetooth speaker is worth every single penny. Shockingly big sound and punchy bass from a speaker that easily fits in a cupholder. Customer service was also responsive and helpful when I had an initial question.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 112,
+    "output_tokens": 2,
+    "cost_usd": 2.2800000000000002e-05,
+    "latency_ms": 2789.9872999987565
+  },
+  "qwen/qwen3.8-27b::63::2345c2e72866f599": {
+    "test_index": 63,
+    "text": "Massive letdown; this insulated stainless steel water bottle stopped functioning after barely any use. The flip lid mechanism snapped off on day three when drinking at the gym. Completely unacceptable build quality for a product in this price tier.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 2753.1577999907313
+  },
+  "qwen/qwen3.8-27b::64::9039c70e46d1d0dc": {
+    "test_index": 64,
+    "text": "Party-link mode paired seamlessly with my second speaker for true stereo sound. Outstanding craftsmanship and design on this portable Bluetooth speaker.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 85,
+    "output_tokens": 2,
+    "cost_usd": 1.74e-05,
+    "latency_ms": 3461.3763999950606
+  },
+  "qwen/qwen3.8-27b::65::ce69dd04e8d88be6": {
+    "test_index": 65,
+    "text": "Massive letdown; this electric gooseneck kettle stopped functioning after barely any use. Boiling water repeatedly spits and leaks from around the base onto the electrical pad.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 97,
+    "output_tokens": 2,
+    "cost_usd": 1.98e-05,
+    "latency_ms": 2620.7303999981377
+  },
+  "qwen/qwen3.8-27b::66::7ec9457f2c823b47": {
+    "test_index": 66,
+    "text": "Compact cylindrical form factor tucks inconspicuously into the corner of the bedroom. So glad I invested in this air purifier with HEPA filter instead of cheaper alternatives.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 96,
+    "output_tokens": 2,
+    "cost_usd": 1.9600000000000002e-05,
+    "latency_ms": 2820.2630000014324
+  },
+  "qwen/qwen3.8-27b::67::29b97823d57c8950": {
+    "test_index": 67,
+    "text": "I've been using this cushioned running shoes every single day and it has exceeded all my expectations. Breathable engineered mesh upper keeps feet cool and dry on ten-mile summer runs.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 97,
+    "output_tokens": 2,
+    "cost_usd": 1.98e-05,
+    "latency_ms": 2521.469800005434
+  },
+  "qwen/qwen3.8-27b::68::8e3d5946eaa68510": {
+    "test_index": 68,
+    "text": "Leaves a persistent metallic chemical taste that multiple washings could not remove. Frustrating, flimsy, and overpriced insulated stainless steel water bottle.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 2563.6454000050435
+  },
+  "qwen/qwen3.8-27b::69::0006cb3a3a1a2010": {
+    "test_index": 69,
+    "text": "Battery reliably powers sixteen hours of music playback at barbecue volume. Could not be happier with this portable Bluetooth speaker purchase.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 84,
+    "output_tokens": 2,
+    "cost_usd": 1.72e-05,
+    "latency_ms": 2742.357000010088
+  },
+  "qwen/qwen3.8-27b::70::0b01d984341e15cf": {
+    "test_index": 70,
+    "text": "Outstanding craftsmanship and design on this mechanical gaming keyboard. Detachable braided USB-C cable makes packing and travel very convenient. It has earned a permanent spot in my everyday setup.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 97,
+    "output_tokens": 2,
+    "cost_usd": 1.98e-05,
+    "latency_ms": 2594.0704999957234
+  },
+  "qwen/qwen3.8-27b::71::c4ff22bf18267392": {
+    "test_index": 71,
+    "text": "The positive reviews for this digital air fryer must be paid because my experience was awful. The non-stick basket coating began flaking off into food after four gentle hand washes.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 98,
+    "output_tokens": 2,
+    "cost_usd": 2e-05,
+    "latency_ms": 2557.273800004623
+  },
+  "qwen/qwen3.8-27b::72::cd537114baa9f4d7": {
+    "test_index": 72,
+    "text": "Buyer beware: this portable Bluetooth speaker has serious design and quality control flaws. Bass is virtually non-existent, producing a hollow, tinny sound like a cheap clock radio. Customer support ignored my emails and refused to honor the manufacturer warranty.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 109,
+    "output_tokens": 2,
+    "cost_usd": 2.22e-05,
+    "latency_ms": 3632.034399997792
+  },
+  "qwen/qwen3.8-27b::73::d276069db5d42b33": {
+    "test_index": 73,
+    "text": "Outstanding craftsmanship and design on this digital air fryer. Preheats in under two minutes and cuts cooking times in half compared to an oven. Reliable, beautifully made, and worth every dollar.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 101,
+    "output_tokens": 2,
+    "cost_usd": 2.0600000000000003e-05,
+    "latency_ms": 3206.143899995368
+  },
+  "qwen/qwen3.8-27b::74::e8873162c368b691": {
+    "test_index": 74,
+    "text": "Frustrating, flimsy, and overpriced cordless stick vacuum. Brush roller clogs and stops spinning after picking up minimal pet hair. Customer support ignored my emails and refused to honor the manufacturer warranty.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 2921.9047999940813
+  },
+  "qwen/qwen3.8-27b::75::320c511c2f902a42": {
+    "test_index": 75,
+    "text": "Compact cylindrical form factor tucks inconspicuously into the corner of the bedroom. Five stars without hesitation! This air purifier with HEPA filter delivers flawless performance.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 95,
+    "output_tokens": 2,
+    "cost_usd": 1.94e-05,
+    "latency_ms": 2725.8167000109097
+  },
+  "qwen/qwen3.8-27b::76::48655b7e1fcc5290": {
+    "test_index": 76,
+    "text": "So glad I invested in this cushioned running shoes instead of cheaper alternatives. Breathable engineered mesh upper keeps feet cool and dry on ten-mile summer runs. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 104,
+    "output_tokens": 2,
+    "cost_usd": 2.12e-05,
+    "latency_ms": 2800.2660000056494
+  },
+  "qwen/qwen3.8-27b::77::4bd56edd2cd5c707": {
+    "test_index": 77,
+    "text": "Crisp 2K HDR video and wide field of view clearly show packages on the doorstep. Outstanding craftsmanship and design on this smart video doorbell.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 92,
+    "output_tokens": 2,
+    "cost_usd": 1.88e-05,
+    "latency_ms": 2723.373500004527
+  },
+  "qwen/qwen3.8-27b::78::11fbdf0e33852eea": {
+    "test_index": 78,
+    "text": "Vibram rubber outsoles deliver confident, slip-free traction on slick granite rocks. Everything about this waterproof hiking boots feels premium, durable, and well-engineered.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 2544.1044000035618
+  },
+  "qwen/qwen3.8-27b::79::dc90c0784ed01ed6": {
+    "test_index": 79,
+    "text": "Could not be happier with this high-speed countertop blender purchase. Variable speed dial and pulse function give total control over salsa texture. Exceptional quality that easily justifies the premium price tag.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 99,
+    "output_tokens": 2,
+    "cost_usd": 2.02e-05,
+    "latency_ms": 2889.384499998414
+  },
+  "qwen/qwen3.8-27b::80::4978acad249f1c1e": {
+    "test_index": 80,
+    "text": "The positive reviews for this ergonomic vertical mouse must be paid because my experience was awful. Too bulky for medium-sized hands; causes severe pinky finger cramping.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 93,
+    "output_tokens": 2,
+    "cost_usd": 1.9e-05,
+    "latency_ms": 3821.764299995266
+  },
+  "qwen/qwen3.8-27b::81::d4d0b69e7cbc304a": {
+    "test_index": 81,
+    "text": "So glad I invested in this high-speed countertop blender instead of cheaper alternatives. 1200-watt motor powers through dense nut butters without stalling or smoking. It has earned a permanent spot in my everyday setup.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 108,
+    "output_tokens": 2,
+    "cost_usd": 2.2000000000000003e-05,
+    "latency_ms": 375.79859999823384
+  },
+  "qwen/qwen3.8-27b::82::bfbf18e01cb1be0c": {
+    "test_index": 82,
+    "text": "The plastic latch broke off the dustbin, causing it to fall open while vacuuming. One star is overly generous for this unreliable and defective cordless stick vacuum.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 94,
+    "output_tokens": 2,
+    "cost_usd": 1.9200000000000003e-05,
+    "latency_ms": 2507.7856999996584
+  },
+  "qwen/qwen3.8-27b::83::de6c140c92836f1c": {
+    "test_index": 83,
+    "text": "Massive letdown; this portable Bluetooth speaker stopped functioning after barely any use. Charging port became loose and now requires holding the cable at an angle to charge. Completely unacceptable build quality for a product in this price tier.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 105,
+    "output_tokens": 2,
+    "cost_usd": 2.1400000000000002e-05,
+    "latency_ms": 2558.8157000020146
+  },
+  "qwen/qwen3.8-27b::84::ce449bb880a72722": {
+    "test_index": 84,
+    "text": "The non-stick basket coating began flaking off into food after four gentle hand washes. Massive letdown; this digital air fryer stopped functioning after barely any use.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 96,
+    "output_tokens": 2,
+    "cost_usd": 1.9600000000000002e-05,
+    "latency_ms": 2607.5820999976713
+  },
+  "qwen/qwen3.8-27b::85::55bab6de9704bb9e": {
+    "test_index": 85,
+    "text": "Swappable lithium battery provides forty minutes of consistent, fade-free suction. So glad I invested in this cordless stick vacuum instead of cheaper alternatives.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 90,
+    "output_tokens": 2,
+    "cost_usd": 1.84e-05,
+    "latency_ms": 2761.506399998325
+  },
+  "qwen/qwen3.8-27b::86::9bde3ddd6c50c999": {
+    "test_index": 86,
+    "text": "Buyer beware: this digital air fryer has serious design and quality control flaws. The non-stick basket coating began flaking off into food after four gentle hand washes.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 97,
+    "output_tokens": 2,
+    "cost_usd": 1.98e-05,
+    "latency_ms": 2661.7656000016723
+  },
+  "qwen/qwen3.8-27b::87::6b931e09a44abe18": {
+    "test_index": 87,
+    "text": "Do not waste your hard-earned money on this cordless stick vacuum. The charging wall dock stopped recognizing the vacuum after only one month. I am returning it immediately and demanding a full refund.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 100,
+    "output_tokens": 2,
+    "cost_usd": 2.04e-05,
+    "latency_ms": 2594.0943000023253
+  },
+  "qwen/qwen3.8-27b::88::b70c9400e0bd1093": {
+    "test_index": 88,
+    "text": "Extremely disappointed with this high-speed countertop blender; save your money and look elsewhere. The rubber gasket shredded, allowing liquids to leak into the motor base. Completely unacceptable build quality for a product in this price tier.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 2554.9614999908954
+  },
+  "qwen/qwen3.8-27b::89::49562058fc460585": {
+    "test_index": 89,
+    "text": "Everything about this ergonomic vertical mouse feels premium, durable, and well-engineered. Rechargeable battery lasts nearly three months between quick USB-C charges.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 91,
+    "output_tokens": 2,
+    "cost_usd": 1.86e-05,
+    "latency_ms": 2487.179300005664
+  },
+  "qwen/qwen3.8-27b::90::34804cda78c39a79": {
+    "test_index": 90,
+    "text": "Frustrating, flimsy, and overpriced ultrawide productivity monitor. The built-in speakers sound worse than a cheap smartphone on speakerphone. I regret buying this and will never purchase from this brand again.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 107,
+    "output_tokens": 2,
+    "cost_usd": 2.18e-05,
+    "latency_ms": 2553.444999997737
+  },
+  "qwen/qwen3.8-27b::91::6953dae4fcf393d7": {
+    "test_index": 91,
+    "text": "I've been using this smart video doorbell every single day and it has exceeded all my expectations. Local micro-SD card storage means zero monthly subscription fees to view clips. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 108,
+    "output_tokens": 2,
+    "cost_usd": 2.2000000000000003e-05,
+    "latency_ms": 2967.9179999948246
+  },
+  "qwen/qwen3.8-27b::92::36263243d6715dc3": {
+    "test_index": 92,
+    "text": "Do not waste your hard-earned money on this ultrawide productivity monitor. HDR mode is completely washed out and looks significantly worse than SDR. I regret buying this and will never purchase from this brand again.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 104,
+    "output_tokens": 2,
+    "cost_usd": 2.12e-05,
+    "latency_ms": 2503.9873000059742
+  },
+  "qwen/qwen3.8-27b::93::7fec99901a9268a4": {
+    "test_index": 93,
+    "text": "A total game changer for my routine; this insulated stainless steel water bottle is worth every single penny. Triple-lock spout lid is 100 percent leakproof even when tossed sideways in a backpack. Will definitely purchase more gear from this brand in the future.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 114,
+    "output_tokens": 2,
+    "cost_usd": 2.32e-05,
+    "latency_ms": 2765.8047000004444
+  },
+  "qwen/qwen3.8-27b::94::1b4a5b021b711dbe": {
+    "test_index": 94,
+    "text": "Runs surprisingly quiet and keeps the kitchen cool during hot summer months. Everything about this digital air fryer feels premium, durable, and well-engineered.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 91,
+    "output_tokens": 2,
+    "cost_usd": 1.86e-05,
+    "latency_ms": 2629.1917999915313
+  },
+  "qwen/qwen3.8-27b::95::1840420acbefc1e3": {
+    "test_index": 95,
+    "text": "Could not be happier with this digital air fryer purchase. Non-stick ceramic basket wipes clean effortlessly with a damp sponge. I would enthusiastically recommend it to anyone looking for top quality.",
+    "raw_output": "positive",
+    "prediction": "positive",
+    "input_tokens": 98,
+    "output_tokens": 2,
+    "cost_usd": 2e-05,
+    "latency_ms": 3880.9393999981694
+  },
+  "qwen/qwen3.8-27b::96::b9912bed485119fe": {
+    "test_index": 96,
+    "text": "The positive reviews for this ultrawide productivity monitor must be paid because my experience was awful. The built-in speakers sound worse than a cheap smartphone on speakerphone. Save yourself the headache and purchase from a reputable brand instead.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 106,
+    "output_tokens": 2,
+    "cost_usd": 2.16e-05,
+    "latency_ms": 375.5209999944782
+  },
+  "qwen/qwen3.8-27b::97::ba67391bba2d135a": {
+    "test_index": 97,
+    "text": "The positive reviews for this digital air fryer must be paid because my experience was awful. The non-stick basket coating began flaking off into food after four gentle hand washes. Save yourself the headache and purchase from a reputable brand instead.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 110,
+    "output_tokens": 2,
+    "cost_usd": 2.2400000000000002e-05,
+    "latency_ms": 2480.659900000319
+  },
+  "qwen/qwen3.8-27b::98::692e8860d5d6b6d8": {
+    "test_index": 98,
+    "text": "One star is overly generous for this unreliable and defective waterproof hiking boots. The insole is as flat and hard as plywood, offering zero arch support. I regret buying this and will never purchase from this brand again.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 104,
+    "output_tokens": 2,
+    "cost_usd": 2.12e-05,
+    "latency_ms": 2559.7576000000117
+  },
+  "qwen/qwen3.8-27b::99::c0303ef707fbf12e": {
+    "test_index": 99,
+    "text": "Do not waste your hard-earned money on this cordless stick vacuum. Battery dies in less than seven minutes when using boost suction mode.",
+    "raw_output": "negative",
+    "prediction": "negative",
+    "input_tokens": 89,
+    "output_tokens": 2,
+    "cost_usd": 1.8200000000000002e-05,
+    "latency_ms": 2557.995300012408
+  }
+}
