@@ -226,10 +226,12 @@ def _load_cache(cache_path: Path) -> dict[str, Any]:
 
 
 def _save_cache(cache_path: Path, data: dict[str, Any]) -> None:
-    """Persist cached responses to disk."""
+    """Persist cached responses to disk using an atomic write pattern."""
     cache_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(cache_path, "w", encoding="utf-8") as f:
+    temp_path = cache_path.with_suffix(".tmp")
+    with open(temp_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
+    os.replace(temp_path, cache_path)
 
 
 def _clean_prediction(raw: str) -> str:
