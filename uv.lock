@@ -494,7 +494,7 @@ wheels = [
 [[package]]
 name = "model-race"
 version = "0.1.0"
-source = { editable = "." }
+source = { virtual = "." }
 dependencies = [
     { name = "google-genai" },
     { name = "groq" },
